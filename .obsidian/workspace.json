@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notion-like-tables/table-id-MHJdaa.md",
+                "file": "_notion-like-tables/table-id-Qmxahy.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notion-like-tables/table-id-MHJdaa.md",
+                "file": "_notion-like-tables/table-id-Qmxahy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notion-like-tables/table-id-MHJdaa.md",
+                "file": "_notion-like-tables/table-id-Qmxahy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notion-like-tables/table-id-MHJdaa.md"
+                "file": "_notion-like-tables/table-id-Qmxahy.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "fb97a4858e9ecf6c",
   "lastOpenFiles": [
+    "_notion-like-tables/Strength.md",
     "_notion-like-tables/Manipulation.md",
     "_notion-like-tables/Stamina.md",
     "_notion-like-tables/Charisma.md",
@@ -192,7 +193,6 @@
     "Attachments/Various Tables (Game Mechanics).md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "London By Night (VTM)/Key Terms.md",
-    "m.md",
-    "_notion-like-tables/table-id-MHJdaa.md"
+    "m.md"
   ]
 }
