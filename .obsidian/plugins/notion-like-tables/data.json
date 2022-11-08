@@ -732,7 +732,7 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           }
