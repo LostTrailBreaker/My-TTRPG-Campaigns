@@ -210,10 +210,10 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- those who don't shop can make an intelligence + resources or manipulation + streetwise check to see if they have access to equipment
 - add some quirks for depth
 - **Physical Attributes**:
-	- Strength: [[Strength]]
-	- Dexterity: [[Dexterity]]
-	- Stamina: [[Stamina]]
+	- [[Strength]]
+	- [[Dexterity]]
+	- [[Stamina]]
 - **Social Attributes**:
-	- Charisma: [[Charisma]]
+	- [[Charisma]]
 	- Manipulation: [[Manipulation]]
 	- Composure:
