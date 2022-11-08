@@ -464,8 +464,8 @@
             "id": "cell-id-wENce3GU",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-z1ORNfLj",
-            "markdown": "New Column",
-            "html": "New Column",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
             "isHeader": true
           },
           {
@@ -484,7 +484,7 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           }
@@ -503,7 +503,7 @@
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-Qmxahy",
+    "tableId": "table-id-MHJdaa",
     "viewModes": [],
     "eventType": "update-state"
   },
