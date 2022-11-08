@@ -18,7 +18,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-HvarHPZA",
+            "id": "cell-id-24icope3",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-wIIQLhRn",
             "markdown": "Difficulty of Action",
@@ -26,7 +26,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-Jla5RHIq",
+            "id": "cell-id-Sn2cdwi3",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-wIIQLhRn",
             "markdown": "Difficulty Number",
@@ -34,7 +34,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-956xFoTb",
+            "id": "cell-id-GGekAtfQ",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-J992W2JM",
             "markdown": "Routine (striking a stationary target, convincing a loyal friend to help you)",
@@ -42,7 +42,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-AVKLiTda",
+            "id": "cell-id-KygLA0Ir",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-J992W2JM",
             "markdown": "1 Success",
@@ -50,7 +50,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-OMNy7k1Y",
+            "id": "cell-id-wrCTheBt",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-nK5ibgK3",
             "markdown": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
@@ -58,7 +58,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-t3dRc0wG",
+            "id": "cell-id-9PcorfiP",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-nK5ibgK3",
             "markdown": "2 Successes",
@@ -66,7 +66,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ckqK6M5G",
+            "id": "cell-id-XFdFebfK",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-QJnnVlLU",
             "markdown": "Moderate (replacing a car's sound system, walking a tightrope)",
@@ -74,7 +74,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-73PSzOWn",
+            "id": "cell-id-jb1WrbQP",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-QJnnVlLU",
             "markdown": "3 Successes",
@@ -82,7 +82,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-YiCVUcUS",
+            "id": "cell-id-H0WPyNks",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-KiZBRMJ0",
             "markdown": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
@@ -90,7 +90,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-zKBhWYto",
+            "id": "cell-id-LjDtKnM6",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-KiZBRMJ0",
             "markdown": "4 Successes",
@@ -98,7 +98,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-hBXRtiHc",
+            "id": "cell-id-UTuO3zCL",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-gn4euVI3",
             "markdown": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
@@ -106,7 +106,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-iu0VKwVj",
+            "id": "cell-id-P3d1my7N",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-gn4euVI3",
             "markdown": "5 Successes",
@@ -114,7 +114,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-FegGmy6q",
+            "id": "cell-id-g2XZYYRL",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-KDS1KpqC",
             "markdown": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
@@ -122,7 +122,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-HxaAouEu",
+            "id": "cell-id-HWXBGkks",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-KDS1KpqC",
             "markdown": "6 Successes",
@@ -130,7 +130,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NralkJr3",
+            "id": "cell-id-f46vpW6V",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-rNvJuHBU",
             "markdown": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
@@ -138,7 +138,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-WrByKFAr",
+            "id": "cell-id-ePdsmlXI",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-rNvJuHBU",
             "markdown": "7 or more successes",
@@ -216,7 +216,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-rgbgrDPS",
+            "id": "cell-id-SEuymItt",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-gEhXVhLz",
             "markdown": "**Trait**",
@@ -224,7 +224,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-hY0VA9Te",
+            "id": "cell-id-jBygx6Kf",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-gEhXVhLz",
             "markdown": "**Experience Points**",
@@ -232,7 +232,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-zHHvvc7o",
+            "id": "cell-id-Pu146jXk",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-RHMOrgMT",
             "markdown": "Increase Attribute",
@@ -240,7 +240,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ksvZSjjj",
+            "id": "cell-id-HKjGZ7XT",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-RHMOrgMT",
             "markdown": "new level x5",
@@ -248,7 +248,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-IHe2jH6H",
+            "id": "cell-id-xSeSWFYd",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-yNbZ7d1C",
             "markdown": "Increase Skill",
@@ -256,7 +256,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NtR7Fo2p",
+            "id": "cell-id-Xm7DGalu",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-yNbZ7d1C",
             "markdown": "new level x3",
@@ -264,7 +264,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-BXvAUzEP",
+            "id": "cell-id-G7bSdOOr",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-jkKcRL1U",
             "markdown": "New Specialty",
@@ -272,7 +272,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-QjIfTpP2",
+            "id": "cell-id-VUJKozcv",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-jkKcRL1U",
             "markdown": "3",
@@ -280,7 +280,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-mtVGoSWb",
+            "id": "cell-id-ojvboJom",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-OHaiq00W",
             "markdown": "Clan Discipline",
@@ -288,7 +288,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-vLh0nhWB",
+            "id": "cell-id-MZ70rpDV",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-OHaiq00W",
             "markdown": "new level x5",
@@ -296,7 +296,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-vFRWMQhW",
+            "id": "cell-id-69ZEtXWK",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-cxtQuqTM",
             "markdown": "Other Discipline",
@@ -304,7 +304,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-TOIh705y",
+            "id": "cell-id-XZHITL4X",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-cxtQuqTM",
             "markdown": "new level x7",
@@ -312,7 +312,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-IpvJ7ipw",
+            "id": "cell-id-k4cB9MTV",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-JxdGmrEm",
             "markdown": "Caitiff Discipline",
@@ -320,7 +320,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-1pmaU4tL",
+            "id": "cell-id-GuAZ0SPh",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-JxdGmrEm",
             "markdown": "new level x6",
@@ -328,7 +328,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Uk4G55IK",
+            "id": "cell-id-qS220a5b",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-FQI9RKms",
             "markdown": "Blood Sorcery Ritual",
@@ -336,7 +336,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-6sXtKWY4",
+            "id": "cell-id-nKE0dqVo",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-FQI9RKms",
             "markdown": "ritual level x3",
@@ -344,7 +344,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-tgMVoDKq",
+            "id": "cell-id-psZwSvgH",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-fkgQf9mV",
             "markdown": "Thin-Blood Formula",
@@ -352,7 +352,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-zAOh1ryg",
+            "id": "cell-id-rDEoUTab",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-fkgQf9mV",
             "markdown": "formula level x3",
@@ -360,7 +360,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-0UynBxBx",
+            "id": "cell-id-6OcT35ia",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-q5lT1VOT",
             "markdown": "Advantage",
@@ -368,7 +368,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NUAJoTwZ",
+            "id": "cell-id-H575XJYj",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-q5lT1VOT",
             "markdown": "3 per dot",
@@ -376,7 +376,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-qtOSZRCF",
+            "id": "cell-id-1sZBaCXN",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-3NJbJ71C",
             "markdown": "Blood Potency",
@@ -384,7 +384,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-EGwNTgLH",
+            "id": "cell-id-xhxFw3dy",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-3NJbJ71C",
             "markdown": "new level x10",

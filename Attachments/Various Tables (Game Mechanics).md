@@ -9,3 +9,5 @@ table-id-BQx3Hx
 ```notion-like-tables
 table-id-Qmxahy
 ```
+
+## Strength

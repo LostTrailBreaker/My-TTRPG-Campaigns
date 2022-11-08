@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "580952879de7d5e4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md"
+                "file": "Attachments/Various Tables (Game Mechanics).md"
               }
             }
           },
@@ -160,8 +159,8 @@
   },
   "active": "ba14dd213da69d8d",
   "lastOpenFiles": [
-    "London By Night (VTM)/Key Terms.md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+    "London By Night (VTM)/Key Terms.md",
     "London By Night (VTM)/History/History of London.md",
     "London By Night (VTM)/Basic Info.md",
     "Attachments/Various Tables (Game Mechanics).md",
