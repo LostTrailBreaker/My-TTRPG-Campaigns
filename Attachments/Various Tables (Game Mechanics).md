@@ -11,3 +11,6 @@ table-id-Qmxahy
 ```
 
 ## Strength
+```notion-like-tables
+table-id-MHJdaa
+```
