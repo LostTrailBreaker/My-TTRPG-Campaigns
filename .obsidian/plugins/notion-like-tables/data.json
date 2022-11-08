@@ -759,11 +759,166 @@
         }
       },
       "pluginVersion": 505
+    },
+    "table-id-g462oQ": {
+      "model": {
+        "columnIds": [
+          "column-id-FciBD4uE",
+          "column-id-fekh3EPa"
+        ],
+        "rowIds": [
+          "row-id-mMVQ0H4K",
+          "row-id-3xtuJFYZ",
+          "row-id-51LfZfWT",
+          "row-id-qmZntHQa",
+          "row-id-UlgCCtxq",
+          "row-id-j0Ydq04I"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-1ucDjhSv",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-mMVQ0H4K",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-Wliu0Hca",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-mMVQ0H4K",
+            "markdown": "Description",
+            "html": "Description",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-fq4GaeN3",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-3xtuJFYZ",
+            "markdown": "1",
+            "html": "1",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-xy6nrxQZ",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-3xtuJFYZ",
+            "markdown": "Even lesser exertions make you winded",
+            "html": "Even lesser exertions make you winded",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-3MoRQu94",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-51LfZfWT",
+            "markdown": "2",
+            "html": "2",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-orwhbnM7",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-51LfZfWT",
+            "markdown": "You can take a beating, but consider suing for peace",
+            "html": "You can take a beating, but consider suing for peace",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-zVc4VHXK",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-qmZntHQa",
+            "markdown": "3",
+            "html": "3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-0ZtG7p2a",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-qmZntHQa",
+            "markdown": "Several days of hard hiking with a backpack is no problem",
+            "html": "Several days of hard hiking with a backpack is no problem",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-MCTTyYxj",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-UlgCCtxq",
+            "markdown": "4",
+            "html": "4",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-I0EPGbyZ",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-UlgCCtxq",
+            "markdown": "You could win a marathon or take copious amounts of pain, at least physically",
+            "html": "You could win a marathon or take copious amounts of pain, at least physically",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-e9rIBd5c",
+            "columnId": "column-id-FciBD4uE",
+            "rowId": "row-id-j0Ydq04I",
+            "markdown": "5",
+            "html": "5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-Hwt3VfQT",
+            "columnId": "column-id-fekh3EPa",
+            "rowId": "row-id-j0Ydq04I",
+            "markdown": "Even if you were a mortal, you'd never break a sweat",
+            "html": "Even if you were a mortal, you'd never break a sweat",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-FciBD4uE": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-fekh3EPa": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-mMVQ0H4K": {
+            "creationDate": 1667938725949
+          },
+          "row-id-3xtuJFYZ": {
+            "creationDate": 1667938725950
+          },
+          "row-id-51LfZfWT": {
+            "creationDate": 1667938750039
+          },
+          "row-id-qmZntHQa": {
+            "creationDate": 1667938750742
+          },
+          "row-id-UlgCCtxq": {
+            "creationDate": 1667938751257
+          },
+          "row-id-j0Ydq04I": {
+            "creationDate": 1667938751857
+          }
+        }
+      },
+      "pluginVersion": 505
     }
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-c4Lgmh",
+    "tableId": "table-id-g462oQ",
     "viewModes": [],
     "eventType": "update-state"
   },

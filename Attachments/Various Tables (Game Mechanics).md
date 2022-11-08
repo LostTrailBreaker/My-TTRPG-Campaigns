@@ -21,3 +21,6 @@ table-id-c4Lgmh
 ```
 
 ## Stamina
+```notion-like-tables
+table-id-g462oQ
+```
