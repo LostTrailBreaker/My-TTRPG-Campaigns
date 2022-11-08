@@ -1084,8 +1084,8 @@
             "id": "cell-id-HRi2CiV2",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-z9OUGtNM",
-            "markdown": "New Column",
-            "html": "New Column",
+            "markdown": "u",
+            "html": "u",
             "isHeader": true
           },
           {
@@ -1123,7 +1123,7 @@
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-DxCmbc",
+    "tableId": "table-id-KkKzk0",
     "viewModes": [],
     "eventType": "update-state"
   },
