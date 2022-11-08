@@ -207,3 +207,4 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - **Experience**: Neonates get 15 xp each at character creation, and Ancillae get 1 dot in blood potency, 2 dots of advantages, 2 dots of flaws, and subtracts 1 dot of flaws. They also get 35 xp to spend
 - **Appearance**: turn traits into physical appearance. High charisma - good looks, high int - piercing gaze, etc.
 - **Equipment**: let people shop for items within their resources
+	- those who don't shop can make an intelligence + resources or manipulation + streetwise check to see if they have access to equipment
