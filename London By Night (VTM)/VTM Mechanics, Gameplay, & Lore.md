@@ -209,3 +209,5 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - **Equipment**: let people shop for items within their resources
 	- those who don't shop can make an intelligence + resources or manipulation + streetwise check to see if they have access to equipment
 - add some quirks for depth
+- **Physical Attributes**:
+	- 
