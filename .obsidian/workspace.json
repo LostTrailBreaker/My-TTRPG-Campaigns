@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb97a4858e9ecf6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notion-like-tables/Leveling up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md"
+                "file": "Attachments/Various Tables (Game Mechanics).md"
               }
             }
           },
@@ -181,9 +170,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba14dd213da69d8d",
+  "active": "40ec4e49f45fe6b8",
   "lastOpenFiles": [
     "_notion-like-tables/Leveling up.md",
+    "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "_notion-like-tables/Strength.md",
     "_notion-like-tables/Manipulation.md",
     "_notion-like-tables/Stamina.md",
@@ -191,7 +181,6 @@
     "_notion-like-tables/Dexterity.md",
     "_notion-like-tables/Action Difficulty.md",
     "Attachments/Various Tables (Game Mechanics).md",
-    "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "London By Night (VTM)/Key Terms.md"
   ]
 }
