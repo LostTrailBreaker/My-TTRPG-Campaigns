@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1efe3308ffdc4d1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Attachments/Various Tables (Game Mechanics).md"
               }
             }
           },
@@ -182,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1efe3308ffdc4d1f",
+  "active": "40ec4e49f45fe6b8",
   "lastOpenFiles": [
+    "m.md",
     "Attachments/Various Tables (Game Mechanics).md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "_notion-like-tables/table-id-c4Lgmh.md",
@@ -192,7 +181,6 @@
     "London By Night (VTM)/History/History of London.md",
     "London By Night (VTM)/Basic Info.md",
     "Attachments/Pasted image 20221102212719.png",
-    "Excalidraw/Relationship Map.excalidraw.md",
-    "London By Night (VTM)/Soundtracks - Links.md"
+    "Excalidraw/Relationship Map.excalidraw.md"
   ]
 }

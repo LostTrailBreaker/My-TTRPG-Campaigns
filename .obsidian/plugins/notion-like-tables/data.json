@@ -1073,25 +1073,110 @@
     "table-id-KkKzk0": {
       "model": {
         "columnIds": [
-          "column-id-MsiXhBib"
+          "column-id-MsiXhBib",
+          "column-id-jJviSWzl"
         ],
         "rowIds": [
           "row-id-z9OUGtNM",
-          "row-id-UZIVbslr"
+          "row-id-UZIVbslr",
+          "row-id-di2J4Exy",
+          "row-id-ZS7HMbRS",
+          "row-id-fXVaDqs9",
+          "row-id-mA0Jy1vR"
         ],
         "cells": [
           {
             "id": "cell-id-HRi2CiV2",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-z9OUGtNM",
-            "markdown": "u",
-            "html": "u",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-CBJ2IZvc",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-z9OUGtNM",
+            "markdown": "Description",
+            "html": "Description",
             "isHeader": true
           },
           {
             "id": "cell-id-Li1H5o6q",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-UZIVbslr",
+            "markdown": "1",
+            "html": "1",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-EU6riq3x",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-UZIVbslr",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-tpwEuwwf",
+            "columnId": "column-id-MsiXhBib",
+            "rowId": "row-id-di2J4Exy",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-TtRrT3HZ",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-di2J4Exy",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-PtySBsFF",
+            "columnId": "column-id-MsiXhBib",
+            "rowId": "row-id-ZS7HMbRS",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-tFitdwrK",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-ZS7HMbRS",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-wEBT6YAK",
+            "columnId": "column-id-MsiXhBib",
+            "rowId": "row-id-fXVaDqs9",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-orJZdC49",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-fXVaDqs9",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-iSLOjaDa",
+            "columnId": "column-id-MsiXhBib",
+            "rowId": "row-id-mA0Jy1vR",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-fdSGbldr",
+            "columnId": "column-id-jJviSWzl",
+            "rowId": "row-id-mA0Jy1vR",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -1104,7 +1189,15 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-jJviSWzl": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           }
@@ -1115,6 +1208,18 @@
           },
           "row-id-UZIVbslr": {
             "creationDate": 1667939105621
+          },
+          "row-id-di2J4Exy": {
+            "creationDate": 1667939149887
+          },
+          "row-id-ZS7HMbRS": {
+            "creationDate": 1667939150428
+          },
+          "row-id-fXVaDqs9": {
+            "creationDate": 1667939150953
+          },
+          "row-id-mA0Jy1vR": {
+            "creationDate": 1667939151477
           }
         }
       },
