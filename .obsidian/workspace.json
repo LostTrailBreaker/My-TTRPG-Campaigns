@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "c4ddb75dce712f05",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1cd5a9d9ac1e109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba14dd213da69d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a731cb6ec4d9aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "London By Night (VTM)/Key Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67fc0badf7e82c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8837a305214c701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3645cb2044b3f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a436e18717773d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c9489de0611f7a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "580952879de7d5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea427d21531be3b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e9e02abd26102a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29405df020a11b2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21c40815fa0865f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fb0bc40c4780ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md"
+              }
+            }
+          },
+          {
+            "id": "957dcb07a1afe4a4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ba14dd213da69d8d",
+  "lastOpenFiles": [
+    "London By Night (VTM)/Key Terms.md",
+    "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+    "London By Night (VTM)/History/History of London.md",
+    "London By Night (VTM)/Basic Info.md",
+    "Attachments/Various Tables (Game Mechanics).md",
+    "Attachments/Pasted image 20221102212719.png",
+    "Excalidraw/Relationship Map.excalidraw.md",
+    "London By Night (VTM)/Soundtracks - Links.md",
+    "_notion-like-tables/table-id-BQx3Hx.md"
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "data": {
+    "table-id-BQx3Hx": {
+      "model": {
+        "columnIds": [
+          "column-id-ta12lYRz",
+          "column-id-YnMlkmpo"
+        ],
+        "rowIds": [
+          "row-id-wIIQLhRn",
+          "row-id-J992W2JM",
+          "row-id-nK5ibgK3",
+          "row-id-QJnnVlLU",
+          "row-id-KiZBRMJ0",
+          "row-id-gn4euVI3",
+          "row-id-KDS1KpqC",
+          "row-id-rNvJuHBU"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-HvarHPZA",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-wIIQLhRn",
+            "markdown": "Difficulty of Action",
+            "html": "Difficulty of Action",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-Jla5RHIq",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-wIIQLhRn",
+            "markdown": "Difficulty Number",
+            "html": "Difficulty Number",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-956xFoTb",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-J992W2JM",
+            "markdown": "Routine (striking a stationary target, convincing a loyal friend to help you)",
+            "html": "Routine (striking a stationary target, convincing a loyal friend to help you)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-AVKLiTda",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-J992W2JM",
+            "markdown": "1 Success",
+            "html": "1 Success",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-OMNy7k1Y",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-nK5ibgK3",
+            "markdown": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
+            "html": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-t3dRc0wG",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-nK5ibgK3",
+            "markdown": "2 Successes",
+            "html": "2 Successes",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-ckqK6M5G",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-QJnnVlLU",
+            "markdown": "Moderate (replacing a car's sound system, walking a tightrope)",
+            "html": "Moderate (replacing a car's sound system, walking a tightrope)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-73PSzOWn",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-QJnnVlLU",
+            "markdown": "3 Successes",
+            "html": "3 Successes",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-YiCVUcUS",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-KiZBRMJ0",
+            "markdown": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
+            "html": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-zKBhWYto",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-KiZBRMJ0",
+            "markdown": "4 Successes",
+            "html": "4 Successes",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-hBXRtiHc",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-gn4euVI3",
+            "markdown": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
+            "html": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-iu0VKwVj",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-gn4euVI3",
+            "markdown": "5 Successes",
+            "html": "5 Successes",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-FegGmy6q",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-KDS1KpqC",
+            "markdown": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
+            "html": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-HxaAouEu",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-KDS1KpqC",
+            "markdown": "6 Successes",
+            "html": "6 Successes",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-NralkJr3",
+            "columnId": "column-id-ta12lYRz",
+            "rowId": "row-id-rNvJuHBU",
+            "markdown": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
+            "html": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-WrByKFAr",
+            "columnId": "column-id-YnMlkmpo",
+            "rowId": "row-id-rNvJuHBU",
+            "markdown": "7 or more successes",
+            "html": "7 or more successes",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-ta12lYRz": {
+            "sortDir": "default",
+            "width": "119px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": true,
+            "tags": []
+          },
+          "column-id-YnMlkmpo": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-wIIQLhRn": {
+            "creationDate": 1667580029467
+          },
+          "row-id-J992W2JM": {
+            "creationDate": 1667580029468
+          },
+          "row-id-nK5ibgK3": {
+            "creationDate": 1667583869610
+          },
+          "row-id-QJnnVlLU": {
+            "creationDate": 1667583912491
+          },
+          "row-id-KiZBRMJ0": {
+            "creationDate": 1667583941105
+          },
+          "row-id-gn4euVI3": {
+            "creationDate": 1667584336005
+          },
+          "row-id-KDS1KpqC": {
+            "creationDate": 1667584383272
+          },
+          "row-id-rNvJuHBU": {
+            "creationDate": 1667584388361
+          }
+        }
+      },
+      "pluginVersion": 505
+    },
+    "table-id-Qmxahy": {
+      "model": {
+        "columnIds": [
+          "column-id-2Vxeizqf",
+          "column-id-qAAtMcIl"
+        ],
+        "rowIds": [
+          "row-id-gEhXVhLz",
+          "row-id-RHMOrgMT",
+          "row-id-yNbZ7d1C",
+          "row-id-jkKcRL1U",
+          "row-id-OHaiq00W",
+          "row-id-cxtQuqTM",
+          "row-id-JxdGmrEm",
+          "row-id-FQI9RKms",
+          "row-id-fkgQf9mV",
+          "row-id-q5lT1VOT",
+          "row-id-3NJbJ71C"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-rgbgrDPS",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-gEhXVhLz",
+            "markdown": "**Trait**",
+            "html": "<strong>Trait</strong>",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-hY0VA9Te",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-gEhXVhLz",
+            "markdown": "**Experience Points**",
+            "html": "<strong>Experience Points</strong>",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-zHHvvc7o",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-RHMOrgMT",
+            "markdown": "Increase Attribute",
+            "html": "Increase Attribute",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-ksvZSjjj",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-RHMOrgMT",
+            "markdown": "new level x5",
+            "html": "new level x5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-IHe2jH6H",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-yNbZ7d1C",
+            "markdown": "Increase Skill",
+            "html": "Increase Skill",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-NtR7Fo2p",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-yNbZ7d1C",
+            "markdown": "new level x3",
+            "html": "new level x3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-BXvAUzEP",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-jkKcRL1U",
+            "markdown": "New Specialty",
+            "html": "New Specialty",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-QjIfTpP2",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-jkKcRL1U",
+            "markdown": "3",
+            "html": "3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-mtVGoSWb",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-OHaiq00W",
+            "markdown": "Clan Discipline",
+            "html": "Clan Discipline",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-vLh0nhWB",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-OHaiq00W",
+            "markdown": "new level x5",
+            "html": "new level x5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-vFRWMQhW",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-cxtQuqTM",
+            "markdown": "Other Discipline",
+            "html": "Other Discipline",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-TOIh705y",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-cxtQuqTM",
+            "markdown": "new level x7",
+            "html": "new level x7",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-IpvJ7ipw",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-JxdGmrEm",
+            "markdown": "Caitiff Discipline",
+            "html": "Caitiff Discipline",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-1pmaU4tL",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-JxdGmrEm",
+            "markdown": "new level x6",
+            "html": "new level x6",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-Uk4G55IK",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-FQI9RKms",
+            "markdown": "Blood Sorcery Ritual",
+            "html": "Blood Sorcery Ritual",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-6sXtKWY4",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-FQI9RKms",
+            "markdown": "ritual level x3",
+            "html": "ritual level x3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-tgMVoDKq",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-fkgQf9mV",
+            "markdown": "Thin-Blood Formula",
+            "html": "Thin-Blood Formula",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-zAOh1ryg",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-fkgQf9mV",
+            "markdown": "formula level x3",
+            "html": "formula level x3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-0UynBxBx",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-q5lT1VOT",
+            "markdown": "Advantage",
+            "html": "Advantage",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-NUAJoTwZ",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-q5lT1VOT",
+            "markdown": "3 per dot",
+            "html": "3 per dot",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-qtOSZRCF",
+            "columnId": "column-id-2Vxeizqf",
+            "rowId": "row-id-3NJbJ71C",
+            "markdown": "Blood Potency",
+            "html": "Blood Potency",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-EGwNTgLH",
+            "columnId": "column-id-qAAtMcIl",
+            "rowId": "row-id-3NJbJ71C",
+            "markdown": "new level x10",
+            "html": "new level x10",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-2Vxeizqf": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-qAAtMcIl": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-gEhXVhLz": {
+            "creationDate": 1667929203924
+          },
+          "row-id-RHMOrgMT": {
+            "creationDate": 1667929203925
+          },
+          "row-id-yNbZ7d1C": {
+            "creationDate": 1667929260786
+          },
+          "row-id-jkKcRL1U": {
+            "creationDate": 1667929261722
+          },
+          "row-id-OHaiq00W": {
+            "creationDate": 1667929262809
+          },
+          "row-id-cxtQuqTM": {
+            "creationDate": 1667929263602
+          },
+          "row-id-JxdGmrEm": {
+            "creationDate": 1667929264284
+          },
+          "row-id-FQI9RKms": {
+            "creationDate": 1667929264921
+          },
+          "row-id-fkgQf9mV": {
+            "creationDate": 1667929315010
+          },
+          "row-id-q5lT1VOT": {
+            "creationDate": 1667929315631
+          },
+          "row-id-3NJbJ71C": {
+            "creationDate": 1667929317820
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-Qmxahy",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}
