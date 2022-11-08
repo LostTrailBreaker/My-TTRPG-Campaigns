@@ -453,7 +453,8 @@
     "table-id-MHJdaa": {
       "model": {
         "columnIds": [
-          "column-id-ZL0NMgro"
+          "column-id-ZL0NMgro",
+          "column-id-3zNV5goE"
         ],
         "rowIds": [
           "row-id-z1ORNfLj",
@@ -469,8 +470,24 @@
             "isHeader": true
           },
           {
+            "id": "cell-id-dJpXxHXb",
+            "columnId": "column-id-3zNV5goE",
+            "rowId": "row-id-z1ORNfLj",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
             "id": "cell-id-u2HhkbRy",
             "columnId": "column-id-ZL0NMgro",
+            "rowId": "row-id-QLbq3GPm",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-azUJAE35",
+            "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-QLbq3GPm",
             "markdown": "",
             "html": "",
@@ -486,6 +503,14 @@
             "type": "text",
             "useAutoWidth": true,
             "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-3zNV5goE": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
             "tags": []
           }
         },
