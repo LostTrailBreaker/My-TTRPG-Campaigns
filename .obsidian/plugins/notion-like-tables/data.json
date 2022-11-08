@@ -18,7 +18,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-pfILvsK5",
+            "id": "cell-id-DfhuqwNh",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-wIIQLhRn",
             "markdown": "Difficulty of Action",
@@ -26,7 +26,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-4oEEeWD6",
+            "id": "cell-id-A6ma03Wg",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-wIIQLhRn",
             "markdown": "Difficulty Number",
@@ -34,7 +34,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-2od7Gvj7",
+            "id": "cell-id-5LotT0mz",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-J992W2JM",
             "markdown": "Routine (striking a stationary target, convincing a loyal friend to help you)",
@@ -42,7 +42,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-o5zcpQrP",
+            "id": "cell-id-VmB94ijp",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-J992W2JM",
             "markdown": "1 Success",
@@ -50,7 +50,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-XEwss9qk",
+            "id": "cell-id-IQQGnVqC",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-nK5ibgK3",
             "markdown": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
@@ -58,7 +58,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-LIjhYox6",
+            "id": "cell-id-9hxDetIT",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-nK5ibgK3",
             "markdown": "2 Successes",
@@ -66,7 +66,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-rImKllNn",
+            "id": "cell-id-k5wvbp2j",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-QJnnVlLU",
             "markdown": "Moderate (replacing a car's sound system, walking a tightrope)",
@@ -74,7 +74,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-9ovxmrx9",
+            "id": "cell-id-17tWEo0c",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-QJnnVlLU",
             "markdown": "3 Successes",
@@ -82,7 +82,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-PIbudg7d",
+            "id": "cell-id-9ZJXnd61",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-KiZBRMJ0",
             "markdown": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
@@ -90,7 +90,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-q2KHzCYh",
+            "id": "cell-id-McIXOLIq",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-KiZBRMJ0",
             "markdown": "4 Successes",
@@ -98,7 +98,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-JHNoBZgK",
+            "id": "cell-id-UbZIUPWi",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-gn4euVI3",
             "markdown": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
@@ -106,7 +106,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Tyx5iFeX",
+            "id": "cell-id-NkiPJL0I",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-gn4euVI3",
             "markdown": "5 Successes",
@@ -114,7 +114,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-5HH6dRkt",
+            "id": "cell-id-EPF39CVc",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-KDS1KpqC",
             "markdown": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
@@ -122,7 +122,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ZZKbNoRk",
+            "id": "cell-id-ZfeqovtR",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-KDS1KpqC",
             "markdown": "6 Successes",
@@ -130,7 +130,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-PkTNnYsY",
+            "id": "cell-id-lJOqileb",
             "columnId": "column-id-ta12lYRz",
             "rowId": "row-id-rNvJuHBU",
             "markdown": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
@@ -138,7 +138,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-fXmvkxJD",
+            "id": "cell-id-tRdKxtXl",
             "columnId": "column-id-YnMlkmpo",
             "rowId": "row-id-rNvJuHBU",
             "markdown": "7 or more successes",
@@ -216,7 +216,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-pWv7wbag",
+            "id": "cell-id-RxfrK5YX",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-gEhXVhLz",
             "markdown": "**Trait**",
@@ -224,7 +224,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-i6C0tLdH",
+            "id": "cell-id-3BtVmWp1",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-gEhXVhLz",
             "markdown": "**Experience Points**",
@@ -232,7 +232,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-eyN9nYil",
+            "id": "cell-id-MonzUVEM",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-RHMOrgMT",
             "markdown": "Increase Attribute",
@@ -240,7 +240,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-YuB4qHxE",
+            "id": "cell-id-hCJxUm3h",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-RHMOrgMT",
             "markdown": "new level x5",
@@ -248,7 +248,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-rRjrz1Vb",
+            "id": "cell-id-SV27WWaP",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-yNbZ7d1C",
             "markdown": "Increase Skill",
@@ -256,7 +256,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NJtmzAcI",
+            "id": "cell-id-vciwfacv",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-yNbZ7d1C",
             "markdown": "new level x3",
@@ -264,7 +264,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-yUyt17e1",
+            "id": "cell-id-ApRwKc9f",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-jkKcRL1U",
             "markdown": "New Specialty",
@@ -272,7 +272,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-B4wzlsPu",
+            "id": "cell-id-zyoVO2jx",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-jkKcRL1U",
             "markdown": "3",
@@ -280,7 +280,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-veGAieAh",
+            "id": "cell-id-BiycdpLT",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-OHaiq00W",
             "markdown": "Clan Discipline",
@@ -288,7 +288,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-pOa0wcNd",
+            "id": "cell-id-rnXzuG3a",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-OHaiq00W",
             "markdown": "new level x5",
@@ -296,7 +296,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-FRVa0hi3",
+            "id": "cell-id-Kw7jHtl7",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-cxtQuqTM",
             "markdown": "Other Discipline",
@@ -304,7 +304,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-D43qRqqJ",
+            "id": "cell-id-guUgpauT",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-cxtQuqTM",
             "markdown": "new level x7",
@@ -312,7 +312,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-1ypayyGg",
+            "id": "cell-id-s4oj93mN",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-JxdGmrEm",
             "markdown": "Caitiff Discipline",
@@ -320,7 +320,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-4mmM7DIl",
+            "id": "cell-id-bKFiEaxF",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-JxdGmrEm",
             "markdown": "new level x6",
@@ -328,7 +328,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-vuKt9jbL",
+            "id": "cell-id-dyjOzqmj",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-FQI9RKms",
             "markdown": "Blood Sorcery Ritual",
@@ -336,7 +336,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-fMIqtUYB",
+            "id": "cell-id-gAU0fJFb",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-FQI9RKms",
             "markdown": "ritual level x3",
@@ -344,7 +344,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-R2h0Eafm",
+            "id": "cell-id-NOK0cPGT",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-fkgQf9mV",
             "markdown": "Thin-Blood Formula",
@@ -352,7 +352,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-yOjuWFjU",
+            "id": "cell-id-4dYV6MZu",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-fkgQf9mV",
             "markdown": "formula level x3",
@@ -360,7 +360,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-bGIXQgeb",
+            "id": "cell-id-WHh7gjTg",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-q5lT1VOT",
             "markdown": "Advantage",
@@ -368,7 +368,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-EbWOWRpq",
+            "id": "cell-id-clatf0z4",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-q5lT1VOT",
             "markdown": "3 per dot",
@@ -376,7 +376,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-SiIoCQrc",
+            "id": "cell-id-VJvcRO10",
             "columnId": "column-id-2Vxeizqf",
             "rowId": "row-id-3NJbJ71C",
             "markdown": "Blood Potency",
@@ -384,7 +384,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NarMjXYX",
+            "id": "cell-id-9gBBb1ae",
             "columnId": "column-id-qAAtMcIl",
             "rowId": "row-id-3NJbJ71C",
             "markdown": "new level x10",
@@ -466,7 +466,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-mUbZLsOO",
+            "id": "cell-id-arFcz25L",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-z1ORNfLj",
             "markdown": "Number of dots",
@@ -474,7 +474,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-I0jVUOaT",
+            "id": "cell-id-cGk11eiG",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-z1ORNfLj",
             "markdown": "Description",
@@ -482,7 +482,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-fl7Qr65D",
+            "id": "cell-id-ohI1fzTr",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-QLbq3GPm",
             "markdown": "1",
@@ -490,7 +490,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-BVhiluJ6",
+            "id": "cell-id-S6TCI7az",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-QLbq3GPm",
             "markdown": "you can easily crush a beer can (can deadlift a christmas tree or stop sign without a test)",
@@ -498,7 +498,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-QXAGqlnv",
+            "id": "cell-id-fXlb6kHf",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-M2jCxcSe",
             "markdown": "2",
@@ -506,7 +506,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-PuTgFFbe",
+            "id": "cell-id-MlUZ6gsu",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-M2jCxcSe",
             "markdown": "physically average (can deadlift a toilet)",
@@ -514,7 +514,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ft5ategc",
+            "id": "cell-id-ZG6ogPlj",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-lAnGuSY4",
             "markdown": "3",
@@ -522,7 +522,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-4uXInMYQ",
+            "id": "cell-id-DOo1YPC5",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-lAnGuSY4",
             "markdown": "might be able to break open a wooden door (deadlift a large human, and empty coffin, a refrigerator)",
@@ -530,7 +530,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-jR9kjB1a",
+            "id": "cell-id-ryHViMVF",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-p7RCBiFK",
             "markdown": "4",
@@ -538,7 +538,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-fjonAWeS",
+            "id": "cell-id-m9kVro3R",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-p7RCBiFK",
             "markdown": "you are a prime physical specimen (deadlift a full coffin, an empty dumpster)",
@@ -546,7 +546,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-iVxREpwN",
+            "id": "cell-id-pnnns3Qo",
             "columnId": "column-id-ZL0NMgro",
             "rowId": "row-id-gob0kmJF",
             "markdown": "5",
@@ -554,7 +554,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-0Dt2TJeA",
+            "id": "cell-id-z7IoxByT",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-gob0kmJF",
             "markdown": "you are a true powerhouse and can likely break open a metal fire door, tear open a chain-link fence, or snap open a chained gate (deadlift a motorcycle or piano)",
@@ -621,7 +621,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-0Zw2AGAg",
+            "id": "cell-id-gRBjzyPe",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-0VK9HxT2",
             "markdown": "Number of dots",
@@ -629,7 +629,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-ZkJXKzWr",
+            "id": "cell-id-Z2m0oW4c",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-0VK9HxT2",
             "markdown": "Description",
@@ -637,7 +637,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-0XeunsXn",
+            "id": "cell-id-0I3v3Hav",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-7PneFVQx",
             "markdown": "1",
@@ -645,7 +645,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Jwt9c934",
+            "id": "cell-id-LKlZijaj",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-7PneFVQx",
             "markdown": "You can run, but balance and dodging are a challenge",
@@ -653,7 +653,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-oYiPUVtY",
+            "id": "cell-id-K6CNLcU6",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-5V5yWKbR",
             "markdown": "2",
@@ -661,7 +661,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-vTDlvxV7",
+            "id": "cell-id-5nlfTb3z",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-5V5yWKbR",
             "markdown": "Your sprint is solid, and sometimes you appear graceful",
@@ -669,7 +669,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Ihb62cFP",
+            "id": "cell-id-U49d6yc7",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-PUh29XD1",
             "markdown": "3",
@@ -677,7 +677,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-bPos9TAn",
+            "id": "cell-id-cJzQv5nt",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-PUh29XD1",
             "markdown": "Your agility is impressive, and your coordination is as good as any trained amateur",
@@ -685,7 +685,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-YHpmOgfy",
+            "id": "cell-id-nuVgAsr5",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-gHI73jJ5",
             "markdown": "4",
@@ -693,7 +693,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-FH4nLYY3",
+            "id": "cell-id-hbJcnq1S",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-gHI73jJ5",
             "markdown": "You could excel at acrobatics and move in a way few humans can",
@@ -701,7 +701,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Lzlqvi9B",
+            "id": "cell-id-3cA5bB04",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-2GzdbUXy",
             "markdown": "5",
@@ -709,7 +709,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-By0Y4ES4",
+            "id": "cell-id-K9nl5CK1",
             "columnId": "column-id-YhOeFlyg",
             "rowId": "row-id-2GzdbUXy",
             "markdown": "Your movements are liquid and hypnotic - almost superhuman",
@@ -776,7 +776,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-1ucDjhSv",
+            "id": "cell-id-ZazFeXK5",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-mMVQ0H4K",
             "markdown": "Number of dots",
@@ -784,7 +784,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-Wliu0Hca",
+            "id": "cell-id-eXtulbVE",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-mMVQ0H4K",
             "markdown": "Description",
@@ -792,7 +792,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-fq4GaeN3",
+            "id": "cell-id-CeS2hHBe",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-3xtuJFYZ",
             "markdown": "1",
@@ -800,7 +800,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-xy6nrxQZ",
+            "id": "cell-id-73NFAHOo",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-3xtuJFYZ",
             "markdown": "Even lesser exertions make you winded",
@@ -808,7 +808,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-3MoRQu94",
+            "id": "cell-id-N1tqDY6c",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-51LfZfWT",
             "markdown": "2",
@@ -816,7 +816,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-orwhbnM7",
+            "id": "cell-id-iuGi6YKO",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-51LfZfWT",
             "markdown": "You can take a beating, but consider suing for peace",
@@ -824,7 +824,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-zVc4VHXK",
+            "id": "cell-id-mNFcnDW6",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-qmZntHQa",
             "markdown": "3",
@@ -832,7 +832,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-0ZtG7p2a",
+            "id": "cell-id-XU9Xefsq",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-qmZntHQa",
             "markdown": "Several days of hard hiking with a backpack is no problem",
@@ -840,7 +840,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-MCTTyYxj",
+            "id": "cell-id-dQUzNEEe",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-UlgCCtxq",
             "markdown": "4",
@@ -848,7 +848,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-I0EPGbyZ",
+            "id": "cell-id-ZT2EBnEJ",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-UlgCCtxq",
             "markdown": "You could win a marathon or take copious amounts of pain, at least physically",
@@ -856,7 +856,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-e9rIBd5c",
+            "id": "cell-id-6cO7Q06y",
             "columnId": "column-id-FciBD4uE",
             "rowId": "row-id-j0Ydq04I",
             "markdown": "5",
@@ -864,7 +864,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Hwt3VfQT",
+            "id": "cell-id-mtGawENw",
             "columnId": "column-id-fekh3EPa",
             "rowId": "row-id-j0Ydq04I",
             "markdown": "Even if you were a mortal, you'd never break a sweat",
@@ -931,7 +931,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-bPxmZ2S6",
+            "id": "cell-id-4SzkAC0G",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-BQxcMwKn",
             "markdown": "Number of dots",
@@ -939,7 +939,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-99Rxi4oc",
+            "id": "cell-id-5s0YjMev",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-BQxcMwKn",
             "markdown": "Description",
@@ -947,7 +947,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-edNyaJza",
+            "id": "cell-id-5Fi1AUrU",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-Kz3K5Nyn",
             "markdown": "1",
@@ -955,7 +955,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-nvGKoZUs",
+            "id": "cell-id-02KHFf3R",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-Kz3K5Nyn",
             "markdown": "You can speak clearly, though few people tend to listen",
@@ -963,7 +963,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-aakD4Hiy",
+            "id": "cell-id-tDSlFeS7",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-jLgJlrhf",
             "markdown": "2",
@@ -971,7 +971,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-pFshwOGV",
+            "id": "cell-id-m2aT0hfu",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-jLgJlrhf",
             "markdown": "Generally likeable despite your undead nature, you may even have friends",
@@ -979,7 +979,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Pp7k5xhK",
+            "id": "cell-id-yX3RNT5c",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-iNC6bBJq",
             "markdown": "3",
@@ -987,7 +987,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-lYlAzEu0",
+            "id": "cell-id-0oX71OOE",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-iNC6bBJq",
             "markdown": "People trust you implicitly, and you easily make friends",
@@ -995,7 +995,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-QOtRTh4H",
+            "id": "cell-id-NPsBigwK",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-e5dvTsUd",
             "markdown": "4",
@@ -1003,7 +1003,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-q6Zms0hU",
+            "id": "cell-id-t3BLcdRk",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-e5dvTsUd",
             "markdown": "You possess significant personal magnetism and draw",
@@ -1011,7 +1011,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-pkAgL6y7",
+            "id": "cell-id-5JiTf5xK",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-UwqvrHDr",
             "markdown": "5",
@@ -1019,7 +1019,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-NUklBUVb",
+            "id": "cell-id-ULDOTGow",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-UwqvrHDr",
             "markdown": "You could lead a city in rebellion, if you so choose",
@@ -1086,7 +1086,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-HRi2CiV2",
+            "id": "cell-id-psnOvSbz",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-z9OUGtNM",
             "markdown": "Number of dots",
@@ -1094,7 +1094,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-CBJ2IZvc",
+            "id": "cell-id-MyCXnzzU",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-z9OUGtNM",
             "markdown": "Description",
@@ -1102,7 +1102,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-Li1H5o6q",
+            "id": "cell-id-Xcibd3aq",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-UZIVbslr",
             "markdown": "1",
@@ -1110,7 +1110,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-EU6riq3x",
+            "id": "cell-id-jgMuGOBA",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-UZIVbslr",
             "markdown": "As long as you stay honest, you can convince people to do what you want",
@@ -1118,7 +1118,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-tpwEuwwf",
+            "id": "cell-id-XS73BGzi",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-di2J4Exy",
             "markdown": "2",
@@ -1126,7 +1126,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-TtRrT3HZ",
+            "id": "cell-id-It70GYRG",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-di2J4Exy",
             "markdown": "Your ability to deceive surpasses the will of the weak-willed and simple-minded",
@@ -1134,7 +1134,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-PtySBsFF",
+            "id": "cell-id-3Cl1koEi",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-ZS7HMbRS",
             "markdown": "3",
@@ -1142,7 +1142,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-tFitdwrK",
+            "id": "cell-id-JOelQP91",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-ZS7HMbRS",
             "markdown": "You never have to pay full price for anything",
@@ -1150,7 +1150,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-wEBT6YAK",
+            "id": "cell-id-HRp3Sgjk",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-fXVaDqs9",
             "markdown": "4",
@@ -1158,7 +1158,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-orJZdC49",
+            "id": "cell-id-xTiSpAEf",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-fXVaDqs9",
             "markdown": "You could be a cult leader - or a politician",
@@ -1166,7 +1166,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-iSLOjaDa",
+            "id": "cell-id-h26BSM3Q",
             "columnId": "column-id-MsiXhBib",
             "rowId": "row-id-mA0Jy1vR",
             "markdown": "5",
@@ -1174,7 +1174,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-fdSGbldr",
+            "id": "cell-id-oMxOVIuN",
             "columnId": "column-id-jJviSWzl",
             "rowId": "row-id-mA0Jy1vR",
             "markdown": "You could convince the Prince to invest in desert property, or maybe even to call off the Blood Hunt on your head",
