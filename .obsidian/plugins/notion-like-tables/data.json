@@ -604,6 +604,56 @@
         }
       },
       "pluginVersion": 505
+    },
+    "table-id-c4Lgmh": {
+      "model": {
+        "columnIds": [
+          "column-id-ossHqjWB"
+        ],
+        "rowIds": [
+          "row-id-0VK9HxT2",
+          "row-id-7PneFVQx"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-XjBDBcMa",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-0VK9HxT2",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-Iq9PhGMN",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-7PneFVQx",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-ossHqjWB": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-0VK9HxT2": {
+            "creationDate": 1667938482402
+          },
+          "row-id-7PneFVQx": {
+            "creationDate": 1667938482403
+          }
+        }
+      },
+      "pluginVersion": 505
     }
   },
   "tableFolder": "_notion-like-tables",

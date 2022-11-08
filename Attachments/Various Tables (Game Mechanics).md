@@ -16,3 +16,6 @@ table-id-MHJdaa
 ```
 
 ## Dexterity
+```notion-like-tables
+table-id-c4Lgmh
+```
