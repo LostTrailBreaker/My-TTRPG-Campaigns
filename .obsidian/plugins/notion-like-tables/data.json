@@ -509,8 +509,8 @@
             "id": "cell-id-OSRYwu9l",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-M2jCxcSe",
-            "markdown": "",
-            "html": "",
+            "markdown": "physically average (can deadlift a toilet)",
+            "html": "physically average (can deadlift a toilet)",
             "isHeader": false
           },
           {
@@ -525,8 +525,8 @@
             "id": "cell-id-rfVGlInO",
             "columnId": "column-id-3zNV5goE",
             "rowId": "row-id-lAnGuSY4",
-            "markdown": "",
-            "html": "",
+            "markdown": "might be able to break open a wooden door (deadlift a large human, and empty coffin, a refrigerator)",
+            "html": "might be able to break open a wooden door (deadlift a large human, and empty coffin, a refrigerator)",
             "isHeader": false
           },
           {
@@ -577,7 +577,7 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
             "shouldWrapOverflow": true,
             "tags": []
           }
