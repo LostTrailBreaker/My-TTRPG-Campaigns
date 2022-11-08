@@ -139,7 +139,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
  - 1 extra point is awarded at the end of a story
  - xp points can be spent on traits or to acquire specialties
  - **YOU CANNOT SKIP BUYING A LEVEL**
- - [[table-id-Qmxahy]]
+ - [[Leveling up]]
 
 ### Character Creation
 - Tip: **Do your research** 
