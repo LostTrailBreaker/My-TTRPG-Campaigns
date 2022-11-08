@@ -6,7 +6,7 @@ rowIds: ["row-id-z9OUGtNM","row-id-UZIVbslr","row-id-di2J4Exy","row-id-ZS7HMbRS"
 | Number of dots | Description |
 | -------------- | ----------- |
 | 1              |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
+| 2              |             |
+| 3              |             |
+| 4              |             |
+| 5              |             |
