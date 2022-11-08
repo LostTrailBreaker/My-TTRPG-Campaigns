@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37a1fc89cc29bb75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notion-like-tables/table-id-KkKzk0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
+                "file": "_notion-like-tables/table-id-KkKzk0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
+                "file": "_notion-like-tables/table-id-KkKzk0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md"
+                "file": "_notion-like-tables/table-id-KkKzk0.md"
               }
             }
           },
@@ -170,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40ec4e49f45fe6b8",
+  "active": "37a1fc89cc29bb75",
   "lastOpenFiles": [
-    "m.md",
-    "Attachments/Various Tables (Game Mechanics).md",
+    "_notion-like-tables/table-id-g462oQ.md",
+    "_notion-like-tables/table-id-DxCmbc.md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+    "London By Night (VTM)/Key Terms.md",
+    "Attachments/Various Tables (Game Mechanics).md",
+    "m.md",
     "_notion-like-tables/table-id-c4Lgmh.md",
     "_notion-like-tables/table-id-MHJdaa.md",
-    "London By Night (VTM)/Key Terms.md",
     "London By Night (VTM)/History/History of London.md",
-    "London By Night (VTM)/Basic Info.md",
-    "Attachments/Pasted image 20221102212719.png",
-    "Excalidraw/Relationship Map.excalidraw.md"
+    "London By Night (VTM)/Basic Info.md"
   ]
 }
