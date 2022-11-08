@@ -914,11 +914,86 @@
         }
       },
       "pluginVersion": 505
+    },
+    "table-id-DxCmbc": {
+      "model": {
+        "columnIds": [
+          "column-id-6qfDS0TG",
+          "column-id-YdIvXnhY"
+        ],
+        "rowIds": [
+          "row-id-BQxcMwKn",
+          "row-id-Kz3K5Nyn"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-bPxmZ2S6",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-BQxcMwKn",
+            "markdown": "number of dots",
+            "html": "number of dots",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-99Rxi4oc",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-BQxcMwKn",
+            "markdown": "Description",
+            "html": "Description",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-edNyaJza",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-Kz3K5Nyn",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-nvGKoZUs",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-Kz3K5Nyn",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-6qfDS0TG": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-YdIvXnhY": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-BQxcMwKn": {
+            "creationDate": 1667938970274
+          },
+          "row-id-Kz3K5Nyn": {
+            "creationDate": 1667938970275
+          }
+        }
+      },
+      "pluginVersion": 505
     }
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-g462oQ",
+    "tableId": "table-id-DxCmbc",
     "viewModes": [],
     "eventType": "update-state"
   },

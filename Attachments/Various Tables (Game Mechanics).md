@@ -24,3 +24,8 @@ table-id-c4Lgmh
 ```notion-like-tables
 table-id-g462oQ
 ```
+
+## Charisma
+```notion-like-tables
+table-id-DxCmbc
+```
