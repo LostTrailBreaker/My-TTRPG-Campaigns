@@ -608,25 +608,110 @@
     "table-id-c4Lgmh": {
       "model": {
         "columnIds": [
-          "column-id-ossHqjWB"
+          "column-id-ossHqjWB",
+          "column-id-YhOeFlyg"
         ],
         "rowIds": [
           "row-id-0VK9HxT2",
-          "row-id-7PneFVQx"
+          "row-id-7PneFVQx",
+          "row-id-5V5yWKbR",
+          "row-id-PUh29XD1",
+          "row-id-gHI73jJ5",
+          "row-id-2GzdbUXy"
         ],
         "cells": [
           {
             "id": "cell-id-XjBDBcMa",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-0VK9HxT2",
-            "markdown": "New Column",
-            "html": "New Column",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-TAnlgKPh",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-0VK9HxT2",
+            "markdown": "Description",
+            "html": "Description",
             "isHeader": true
           },
           {
             "id": "cell-id-Iq9PhGMN",
             "columnId": "column-id-ossHqjWB",
             "rowId": "row-id-7PneFVQx",
+            "markdown": "1",
+            "html": "1",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-aEplAOcU",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-7PneFVQx",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-2wuF4oRr",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-5V5yWKbR",
+            "markdown": "2",
+            "html": "2",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-DfaROXY6",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-5V5yWKbR",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-JDbPhq34",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-PUh29XD1",
+            "markdown": "3",
+            "html": "3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-K1h9HG6d",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-PUh29XD1",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-er5IEfOn",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-gHI73jJ5",
+            "markdown": "4",
+            "html": "4",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-LB3HsPAf",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-gHI73jJ5",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-DP61toLw",
+            "columnId": "column-id-ossHqjWB",
+            "rowId": "row-id-2GzdbUXy",
+            "markdown": "5",
+            "html": "5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-kleTLigL",
+            "columnId": "column-id-YhOeFlyg",
+            "rowId": "row-id-2GzdbUXy",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -636,6 +721,14 @@
       "settings": {
         "columns": {
           "column-id-ossHqjWB": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-YhOeFlyg": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -650,6 +743,18 @@
           },
           "row-id-7PneFVQx": {
             "creationDate": 1667938482403
+          },
+          "row-id-5V5yWKbR": {
+            "creationDate": 1667938505559
+          },
+          "row-id-PUh29XD1": {
+            "creationDate": 1667938506132
+          },
+          "row-id-gHI73jJ5": {
+            "creationDate": 1667938506646
+          },
+          "row-id-2GzdbUXy": {
+            "creationDate": 1667938507252
           }
         }
       },
@@ -658,7 +763,7 @@
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-MHJdaa",
+    "tableId": "table-id-c4Lgmh",
     "viewModes": [],
     "eventType": "update-state"
   },
