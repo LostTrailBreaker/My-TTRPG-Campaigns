@@ -68,7 +68,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - **the action is accomplished if the number of successes meets or exceeds the difficulty, and the margin can determine extra damage or degree of success**
 - Tests are created with 2 factors, often containing an Attribute and a skill or an attribute and a discipline. This is called a *Skill Pool*
 - **VAMPIRES REPLACE NORMAL DICE WITH THEIR HUNGER DICE FOR EVERY POOL**
-- **Difficulty**: how many successes are needed to accomplish an action, with 7 or more successes being nearly impossible (see [[Acction Difficulty]] for examples)
+- **Difficulty**: how many successes are needed to accomplish an action, with 7 or more successes being nearly impossible (see [[Action Difficulty]] for examples)
 	- sometimes equipment is needed to accomplish a task, and a modifier of +1 will be added for improvised equipment
 - **Modifiers**: changing the size of the dice pool is when a circumstance changes for the *character*, while changing the difficulty is a change in circumstance for the *action*. Shifting the dice pool up or down by 2 dice has generally the same effect as changing the difficulty by 1
 	- **CAP MODIFIERS AT + OR - 2 TO THE DIFFICULTY AND + OR - 3 DICE**

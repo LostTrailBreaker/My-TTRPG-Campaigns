@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notion-like-tables/Acction Difficulty.md",
+                "file": "_notion-like-tables/table-id-c4Lgmh.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notion-like-tables/Acction Difficulty.md",
+                "file": "_notion-like-tables/table-id-c4Lgmh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notion-like-tables/Acction Difficulty.md",
+                "file": "_notion-like-tables/table-id-c4Lgmh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notion-like-tables/Acction Difficulty.md"
+                "file": "_notion-like-tables/table-id-c4Lgmh.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "fb97a4858e9ecf6c",
   "lastOpenFiles": [
+    "_notion-like-tables/Action Difficulty.md",
     "Attachments/Various Tables (Game Mechanics).md",
     "_notion-like-tables/table-id-KkKzk0.md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
@@ -192,7 +193,6 @@
     "London By Night (VTM)/Key Terms.md",
     "m.md",
     "_notion-like-tables/table-id-c4Lgmh.md",
-    "_notion-like-tables/table-id-MHJdaa.md",
-    "London By Night (VTM)/History/History of London.md"
+    "_notion-like-tables/table-id-MHJdaa.md"
   ]
 }
