@@ -211,7 +211,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - add some quirks for depth
 - **Physical Attributes**:
 	- Strength: [[table-id-MHJdaa]]
-	- Dexterity: [[table-id-c4Lgmh]]
+	- Dexterity: [[Dexterity]]
 	- Stamina: [[table-id-g462oQ]]
 - **Social Attributes**:
 	- Charisma: [[table-id-DxCmbc]]
