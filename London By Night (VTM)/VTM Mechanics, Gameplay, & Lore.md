@@ -215,5 +215,5 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- Stamina: [[Stamina]]
 - **Social Attributes**:
 	- Charisma: [[Charisma]]
-	- Manipulation: [[table-id-KkKzk0]]
+	- Manipulation: [[Manipulation]]
 	- Composure:
