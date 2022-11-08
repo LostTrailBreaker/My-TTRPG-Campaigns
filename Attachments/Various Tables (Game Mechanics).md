@@ -29,3 +29,8 @@ table-id-g462oQ
 ```notion-like-tables
 table-id-DxCmbc
 ```
+
+## Manipulation
+```notion-like-tables
+table-id-KkKzk0
+```
