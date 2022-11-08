@@ -923,15 +923,19 @@
         ],
         "rowIds": [
           "row-id-BQxcMwKn",
-          "row-id-Kz3K5Nyn"
+          "row-id-Kz3K5Nyn",
+          "row-id-jLgJlrhf",
+          "row-id-iNC6bBJq",
+          "row-id-e5dvTsUd",
+          "row-id-UwqvrHDr"
         ],
         "cells": [
           {
             "id": "cell-id-bPxmZ2S6",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-BQxcMwKn",
-            "markdown": "number of dots",
-            "html": "number of dots",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
             "isHeader": true
           },
           {
@@ -946,16 +950,80 @@
             "id": "cell-id-edNyaJza",
             "columnId": "column-id-6qfDS0TG",
             "rowId": "row-id-Kz3K5Nyn",
-            "markdown": "",
-            "html": "",
+            "markdown": "1",
+            "html": "1",
             "isHeader": false
           },
           {
             "id": "cell-id-nvGKoZUs",
             "columnId": "column-id-YdIvXnhY",
             "rowId": "row-id-Kz3K5Nyn",
-            "markdown": "",
-            "html": "",
+            "markdown": "You can speak clearly, though few people tend to listen",
+            "html": "You can speak clearly, though few people tend to listen",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-aakD4Hiy",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-jLgJlrhf",
+            "markdown": "2",
+            "html": "2",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-pFshwOGV",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-jLgJlrhf",
+            "markdown": "Generally likeable despite your undead nature, you may even have friends",
+            "html": "Generally likeable despite your undead nature, you may even have friends",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-Pp7k5xhK",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-iNC6bBJq",
+            "markdown": "3",
+            "html": "3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-lYlAzEu0",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-iNC6bBJq",
+            "markdown": "People trust you implicitly, and you easily make friends",
+            "html": "People trust you implicitly, and you easily make friends",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-QOtRTh4H",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-e5dvTsUd",
+            "markdown": "4",
+            "html": "4",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-q6Zms0hU",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-e5dvTsUd",
+            "markdown": "You possess significant personal magnetism and draw",
+            "html": "You possess significant personal magnetism and draw",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-pkAgL6y7",
+            "columnId": "column-id-6qfDS0TG",
+            "rowId": "row-id-UwqvrHDr",
+            "markdown": "5",
+            "html": "5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-NUklBUVb",
+            "columnId": "column-id-YdIvXnhY",
+            "rowId": "row-id-UwqvrHDr",
+            "markdown": "You could lead a city in rebellion, if you so choose",
+            "html": "You could lead a city in rebellion, if you so choose",
             "isHeader": false
           }
         ]
@@ -966,7 +1034,7 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           },
@@ -985,6 +1053,18 @@
           },
           "row-id-Kz3K5Nyn": {
             "creationDate": 1667938970275
+          },
+          "row-id-jLgJlrhf": {
+            "creationDate": 1667939000767
+          },
+          "row-id-iNC6bBJq": {
+            "creationDate": 1667939001324
+          },
+          "row-id-e5dvTsUd": {
+            "creationDate": 1667939002840
+          },
+          "row-id-UwqvrHDr": {
+            "creationDate": 1667939003391
           }
         }
       },
