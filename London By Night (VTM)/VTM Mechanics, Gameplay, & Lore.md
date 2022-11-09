@@ -223,7 +223,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - **Mental Attributes**:
 	- [[Intelligence]]: your ability to reason, research, and apply logic
 	- [[Wits]]: thinking quickly and reacting correctly on little information
-	- [[Resolve]]
+	- [[Resolve]]: provides focus and determination, measures concentration and mental fortitude
 
 ### Skills
 - 
