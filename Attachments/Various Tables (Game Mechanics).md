@@ -33,7 +33,7 @@ table-id-DxCmbc
 
 ## Manipulation
 ```notion-like-tables
-table-id-KkKzk0
+Manipulation
 ```
 
 ## Composure
