@@ -42,17 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2085fca779bee8b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "580952879de7d5e4",
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md"
+              }
             }
           },
           {
@@ -174,7 +170,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2085fca779bee8b2",
+  "active": "ba14dd213da69d8d",
   "lastOpenFiles": [
     "Attachments/Various Tables (Game Mechanics).md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
