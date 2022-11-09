@@ -1,33 +1,3 @@
 # VTM
 
 
-
-## Strength
-```notion-like-tables
-table-id-MHJdaa
-```
-
-## Dexterity
-```notion-like-tables
-table-id-c4Lgmh
-```
-
-## Stamina
-```notion-like-tables
-table-id-g462oQ
-```
-
-## Charisma
-```notion-like-tables
-table-id-DxCmbc
-```
-
-## Manipulation
-```notion-like-tables
-table-id-KkKzk0
-```
-
-## Composure
-```notion-like-tables
-table-id-WNKftA
-```
