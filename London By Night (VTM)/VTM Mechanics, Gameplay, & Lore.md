@@ -221,7 +221,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- [[Manipulation]]: ability to twist others to your point of view, lie convincingly, and decieve others
 	- [[Composure]]: allows you to remain calm, control your emotions, and put others at ease
 - **Mental Attributes**:
-	- [[Intelligence]]
+	- [[Intelligence]]: your ability to reason, research, and apply logic
 	- [[Wits]]
 	- [[Resolve]]
 
