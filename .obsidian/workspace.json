@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
+                "file": "_notion-like-tables/Composure.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
+                "file": "_notion-like-tables/Composure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
+                "file": "_notion-like-tables/Composure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md"
+                "file": "_notion-like-tables/Composure.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "9d1b9cbb4eaa41da",
   "lastOpenFiles": [
+    "Attachments/Various Tables (Game Mechanics).md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "London By Night (VTM)/Key Terms.md",
-    "Attachments/Various Tables (Game Mechanics).md",
     "_notion-like-tables/Leveling up.md",
     "_notion-like-tables/Strength.md",
     "_notion-like-tables/Manipulation.md",
