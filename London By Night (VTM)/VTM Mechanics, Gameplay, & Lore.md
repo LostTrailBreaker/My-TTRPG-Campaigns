@@ -231,7 +231,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- to perform minute movements while impaled through the heart with a wooden stake
 	- to ignore health damage penalties, including impairment, for 1 turn
 - recovering willpower:
-	- 
+	- at the beginning of a session, a character can remove an amount of superficial damage equal to their composure or resolve (whichever is highest)
 
 ### Skills
 - 
