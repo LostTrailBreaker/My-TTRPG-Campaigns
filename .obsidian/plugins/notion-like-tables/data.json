@@ -373,8 +373,8 @@
             "id": "cell-id-vqsJD4mL",
             "columnId": "column-id-dTCZI6Bd",
             "rowId": "row-id-hVZP5X7x",
-            "markdown": "",
-            "html": "",
+            "markdown": "Description",
+            "html": "Description",
             "isHeader": true
           },
           {
@@ -409,7 +409,7 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           }
