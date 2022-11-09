@@ -1,10 +1,6 @@
 # VTM
 
 
-## Trait Experience Costs
-```notion-like-tables
-table-id-Qmxahy
-```
 
 ## Strength
 ```notion-like-tables
