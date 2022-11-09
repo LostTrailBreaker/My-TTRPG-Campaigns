@@ -35,12 +35,15 @@
             "id": "9d1b9cbb4eaa41da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notion-like-tables/Composure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md"
+              }
             }
           },
           {
@@ -162,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d3645cb2044b3f8",
+  "active": "ba14dd213da69d8d",
   "lastOpenFiles": [
-    "_notion-like-tables/table-id-Qmxahy.md",
+    "_notion-like-tables/Composure.md",
+    "_notion-like-tables/Charisma.md",
+    "_notion-like-tables/table-id-BQx3Hx.md",
+    "_notion-like-tables/table-id-c4Lgmh.md",
     "_notion-like-tables/table-id-MHJdaa.md",
+    "_notion-like-tables/table-id-Qmxahy.md",
     "_notion-like-tables/table-id-KkKzk0.md",
     "_notion-like-tables/table-id-g462oQ.md",
     "_notion-like-tables/table-id-DxCmbc.md",
-    "_notion-like-tables/table-id-c4Lgmh.md",
-    "_notion-like-tables/table-id-BQx3Hx.md",
-    "_notion-like-tables/Composure.md",
-    "_notion-like-tables/Dexterity.md",
-    "_notion-like-tables/Stamina.md"
+    "_notion-like-tables/Dexterity.md"
   ]
 }
