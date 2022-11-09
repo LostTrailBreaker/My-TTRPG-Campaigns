@@ -219,7 +219,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - **Social Attributes**:
 	- [[Charisma]]: natural charm, grace, and sex appeal
 	- [[Manipulation]]: ability to twist others to your point of view, lie convincingly, and decieve others
-	- [[Composure]]
+	- [[Composure]]: allows you to remain calm, control your emotions, and put others at ease
 - **Mental Attributes**:
 	- [[Intelligence]]
 	- [[Wits]]
