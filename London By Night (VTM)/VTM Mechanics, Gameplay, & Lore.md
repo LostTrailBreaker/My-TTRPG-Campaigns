@@ -230,10 +230,12 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- to take control of a character in frenzy for 1 turn or when under the influence of supernatural coercion (Dominate, Presence, etc.)
 	- to perform minute movements while impaled through the heart with a wooden stake
 	- to ignore health damage penalties, including impairment, for 1 turn
-- recovering willpower:
+- recovering superficial willpower:
 	- at the beginning of a session, a character can remove an amount of superficial damage equal to their composure or resolve (whichever is highest)
 	- once per session, if a character acts to further their desire they can recover 1 point of superficial willpower damage
 	- a character who plays a messy crit, a bestial failure, a frenzy, or a compulsion in a dramatic way can recover 1 or more superficial willpower damage as the beast is satiated
+- recovering aggravated willpower:
+	- 
 
 ### Skills
 - 
