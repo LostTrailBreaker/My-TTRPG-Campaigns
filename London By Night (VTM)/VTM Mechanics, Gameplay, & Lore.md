@@ -233,7 +233,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - recovering willpower:
 	- at the beginning of a session, a character can remove an amount of superficial damage equal to their composure or resolve (whichever is highest)
 	- once per session, if a character acts to further their desire they can recover 1 point of superficial willpower damage
-	- a 
+	- a character 
 
 ### Skills
 - 
