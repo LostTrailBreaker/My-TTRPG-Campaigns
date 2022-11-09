@@ -3,193 +3,48 @@
     "table-id-BQx3Hx": {
       "model": {
         "columnIds": [
-          "column-id-ta12lYRz",
-          "column-id-YnMlkmpo"
+          "column-id-WsrfbXFc"
         ],
         "rowIds": [
-          "row-id-wIIQLhRn",
-          "row-id-J992W2JM",
-          "row-id-nK5ibgK3",
-          "row-id-QJnnVlLU",
-          "row-id-KiZBRMJ0",
-          "row-id-gn4euVI3",
-          "row-id-KDS1KpqC",
-          "row-id-rNvJuHBU"
+          "row-id-dNli0Ztd",
+          "row-id-rPH2gR3I"
         ],
         "cells": [
           {
-            "id": "cell-id-DfhuqwNh",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-wIIQLhRn",
-            "markdown": "Difficulty of Action",
-            "html": "Difficulty of Action",
+            "id": "cell-id-APU5RPXQ",
+            "columnId": "column-id-WsrfbXFc",
+            "rowId": "row-id-dNli0Ztd",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-A6ma03Wg",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-wIIQLhRn",
-            "markdown": "Difficulty Number",
-            "html": "Difficulty Number",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-5LotT0mz",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-J992W2JM",
-            "markdown": "Routine (striking a stationary target, convincing a loyal friend to help you)",
-            "html": "Routine (striking a stationary target, convincing a loyal friend to help you)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-VmB94ijp",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-J992W2JM",
-            "markdown": "1 Success",
-            "html": "1 Success",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-IQQGnVqC",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-nK5ibgK3",
-            "markdown": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
-            "html": "Straightforward (seducing someone who's already in the mood, intimidating a weakling)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-9hxDetIT",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-nK5ibgK3",
-            "markdown": "2 Successes",
-            "html": "2 Successes",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-k5wvbp2j",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-QJnnVlLU",
-            "markdown": "Moderate (replacing a car's sound system, walking a tightrope)",
-            "html": "Moderate (replacing a car's sound system, walking a tightrope)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-17tWEo0c",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-QJnnVlLU",
-            "markdown": "3 Successes",
-            "html": "3 Successes",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-9ZJXnd61",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-KiZBRMJ0",
-            "markdown": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
-            "html": "Challenging (locating the source of a whisper, creating a memorable piece of art)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-McIXOLIq",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-KiZBRMJ0",
-            "markdown": "4 Successes",
-            "html": "4 Successes",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-UbZIUPWi",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-gn4euVI3",
-            "markdown": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
-            "html": "Hard (convincing a cop that this isn't your cocaine, rebuilding a wrecked engine block)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-NkiPJL0I",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-gn4euVI3",
-            "markdown": "5 Successes",
-            "html": "5 Successes",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-EPF39CVc",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-KDS1KpqC",
-            "markdown": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
-            "html": "Very Hard (running across a tightrope while under fire, calming a hostile and violent mob)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ZfeqovtR",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-KDS1KpqC",
-            "markdown": "6 Successes",
-            "html": "6 Successes",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-lJOqileb",
-            "columnId": "column-id-ta12lYRz",
-            "rowId": "row-id-rNvJuHBU",
-            "markdown": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
-            "html": "Nearly Impossible (finding one specific homeless person in LA in one night, flawlessly reciting a long text in a language you don't speak)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-tRdKxtXl",
-            "columnId": "column-id-YnMlkmpo",
-            "rowId": "row-id-rNvJuHBU",
-            "markdown": "7 or more successes",
-            "html": "7 or more successes",
+            "id": "cell-id-yK02JWbm",
+            "columnId": "column-id-WsrfbXFc",
+            "rowId": "row-id-rPH2gR3I",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-ta12lYRz": {
-            "sortDir": "default",
-            "width": "119px",
-            "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": true,
-            "tags": []
-          },
-          "column-id-YnMlkmpo": {
+          "column-id-WsrfbXFc": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-wIIQLhRn": {
-            "creationDate": 1667580029467
+          "row-id-dNli0Ztd": {
+            "creationDate": 1668015366057
           },
-          "row-id-J992W2JM": {
-            "creationDate": 1667580029468
-          },
-          "row-id-nK5ibgK3": {
-            "creationDate": 1667583869610
-          },
-          "row-id-QJnnVlLU": {
-            "creationDate": 1667583912491
-          },
-          "row-id-KiZBRMJ0": {
-            "creationDate": 1667583941105
-          },
-          "row-id-gn4euVI3": {
-            "creationDate": 1667584336005
-          },
-          "row-id-KDS1KpqC": {
-            "creationDate": 1667584383272
-          },
-          "row-id-rNvJuHBU": {
-            "creationDate": 1667584388361
+          "row-id-rPH2gR3I": {
+            "creationDate": 1668015366058
           }
         }
       },
@@ -198,253 +53,48 @@
     "table-id-Qmxahy": {
       "model": {
         "columnIds": [
-          "column-id-2Vxeizqf",
-          "column-id-qAAtMcIl"
+          "column-id-em3G7Y1t"
         ],
         "rowIds": [
-          "row-id-gEhXVhLz",
-          "row-id-RHMOrgMT",
-          "row-id-yNbZ7d1C",
-          "row-id-jkKcRL1U",
-          "row-id-OHaiq00W",
-          "row-id-cxtQuqTM",
-          "row-id-JxdGmrEm",
-          "row-id-FQI9RKms",
-          "row-id-fkgQf9mV",
-          "row-id-q5lT1VOT",
-          "row-id-3NJbJ71C"
+          "row-id-fqKxvQob",
+          "row-id-VJkV5e7m"
         ],
         "cells": [
           {
-            "id": "cell-id-RxfrK5YX",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-gEhXVhLz",
-            "markdown": "**Trait**",
-            "html": "<strong>Trait</strong>",
+            "id": "cell-id-FqDpPdTY",
+            "columnId": "column-id-em3G7Y1t",
+            "rowId": "row-id-fqKxvQob",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-3BtVmWp1",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-gEhXVhLz",
-            "markdown": "**Experience Points**",
-            "html": "<strong>Experience Points</strong>",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-MonzUVEM",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-RHMOrgMT",
-            "markdown": "Increase Attribute",
-            "html": "Increase Attribute",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-hCJxUm3h",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-RHMOrgMT",
-            "markdown": "new level x5",
-            "html": "new level x5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-SV27WWaP",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-yNbZ7d1C",
-            "markdown": "Increase Skill",
-            "html": "Increase Skill",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-vciwfacv",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-yNbZ7d1C",
-            "markdown": "new level x3",
-            "html": "new level x3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ApRwKc9f",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-jkKcRL1U",
-            "markdown": "New Specialty",
-            "html": "New Specialty",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-zyoVO2jx",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-jkKcRL1U",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-BiycdpLT",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-OHaiq00W",
-            "markdown": "Clan Discipline",
-            "html": "Clan Discipline",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-rnXzuG3a",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-OHaiq00W",
-            "markdown": "new level x5",
-            "html": "new level x5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-Kw7jHtl7",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-cxtQuqTM",
-            "markdown": "Other Discipline",
-            "html": "Other Discipline",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-guUgpauT",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-cxtQuqTM",
-            "markdown": "new level x7",
-            "html": "new level x7",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-s4oj93mN",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-JxdGmrEm",
-            "markdown": "Caitiff Discipline",
-            "html": "Caitiff Discipline",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-bKFiEaxF",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-JxdGmrEm",
-            "markdown": "new level x6",
-            "html": "new level x6",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-dyjOzqmj",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-FQI9RKms",
-            "markdown": "Blood Sorcery Ritual",
-            "html": "Blood Sorcery Ritual",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-gAU0fJFb",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-FQI9RKms",
-            "markdown": "ritual level x3",
-            "html": "ritual level x3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-NOK0cPGT",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-fkgQf9mV",
-            "markdown": "Thin-Blood Formula",
-            "html": "Thin-Blood Formula",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-4dYV6MZu",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-fkgQf9mV",
-            "markdown": "formula level x3",
-            "html": "formula level x3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-WHh7gjTg",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-q5lT1VOT",
-            "markdown": "Advantage",
-            "html": "Advantage",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-clatf0z4",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-q5lT1VOT",
-            "markdown": "3 per dot",
-            "html": "3 per dot",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-VJvcRO10",
-            "columnId": "column-id-2Vxeizqf",
-            "rowId": "row-id-3NJbJ71C",
-            "markdown": "Blood Potency",
-            "html": "Blood Potency",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-9gBBb1ae",
-            "columnId": "column-id-qAAtMcIl",
-            "rowId": "row-id-3NJbJ71C",
-            "markdown": "new level x10",
-            "html": "new level x10",
+            "id": "cell-id-XCz1pyv2",
+            "columnId": "column-id-em3G7Y1t",
+            "rowId": "row-id-VJkV5e7m",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-2Vxeizqf": {
+          "column-id-em3G7Y1t": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-qAAtMcIl": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-gEhXVhLz": {
-            "creationDate": 1667929203924
+          "row-id-fqKxvQob": {
+            "creationDate": 1668015366070
           },
-          "row-id-RHMOrgMT": {
-            "creationDate": 1667929203925
-          },
-          "row-id-yNbZ7d1C": {
-            "creationDate": 1667929260786
-          },
-          "row-id-jkKcRL1U": {
-            "creationDate": 1667929261722
-          },
-          "row-id-OHaiq00W": {
-            "creationDate": 1667929262809
-          },
-          "row-id-cxtQuqTM": {
-            "creationDate": 1667929263602
-          },
-          "row-id-JxdGmrEm": {
-            "creationDate": 1667929264284
-          },
-          "row-id-FQI9RKms": {
-            "creationDate": 1667929264921
-          },
-          "row-id-fkgQf9mV": {
-            "creationDate": 1667929315010
-          },
-          "row-id-q5lT1VOT": {
-            "creationDate": 1667929315631
-          },
-          "row-id-3NJbJ71C": {
-            "creationDate": 1667929317820
+          "row-id-VJkV5e7m": {
+            "creationDate": 1668015366071
           }
         }
       },
@@ -453,153 +103,48 @@
     "table-id-MHJdaa": {
       "model": {
         "columnIds": [
-          "column-id-ZL0NMgro",
-          "column-id-3zNV5goE"
+          "column-id-ktuaRPeP"
         ],
         "rowIds": [
-          "row-id-z1ORNfLj",
-          "row-id-QLbq3GPm",
-          "row-id-M2jCxcSe",
-          "row-id-lAnGuSY4",
-          "row-id-p7RCBiFK",
-          "row-id-gob0kmJF"
+          "row-id-lroHD99Q",
+          "row-id-gS5DfJWK"
         ],
         "cells": [
           {
-            "id": "cell-id-arFcz25L",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-z1ORNfLj",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-LAeX1bGS",
+            "columnId": "column-id-ktuaRPeP",
+            "rowId": "row-id-lroHD99Q",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-cGk11eiG",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-z1ORNfLj",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-ohI1fzTr",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-QLbq3GPm",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-S6TCI7az",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-QLbq3GPm",
-            "markdown": "you can easily crush a beer can (can deadlift a christmas tree or stop sign without a test)",
-            "html": "you can easily crush a beer can (can deadlift a christmas tree or stop sign without a test)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-fXlb6kHf",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-M2jCxcSe",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-MlUZ6gsu",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-M2jCxcSe",
-            "markdown": "physically average (can deadlift a toilet)",
-            "html": "physically average (can deadlift a toilet)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ZG6ogPlj",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-lAnGuSY4",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-DOo1YPC5",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-lAnGuSY4",
-            "markdown": "might be able to break open a wooden door (deadlift a large human, and empty coffin, a refrigerator)",
-            "html": "might be able to break open a wooden door (deadlift a large human, and empty coffin, a refrigerator)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ryHViMVF",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-p7RCBiFK",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-m9kVro3R",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-p7RCBiFK",
-            "markdown": "you are a prime physical specimen (deadlift a full coffin, an empty dumpster)",
-            "html": "you are a prime physical specimen (deadlift a full coffin, an empty dumpster)",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-pnnns3Qo",
-            "columnId": "column-id-ZL0NMgro",
-            "rowId": "row-id-gob0kmJF",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-z7IoxByT",
-            "columnId": "column-id-3zNV5goE",
-            "rowId": "row-id-gob0kmJF",
-            "markdown": "you are a true powerhouse and can likely break open a metal fire door, tear open a chain-link fence, or snap open a chained gate (deadlift a motorcycle or piano)",
-            "html": "you are a true powerhouse and can likely break open a metal fire door, tear open a chain-link fence, or snap open a chained gate (deadlift a motorcycle or piano)",
+            "id": "cell-id-KinmRYG0",
+            "columnId": "column-id-ktuaRPeP",
+            "rowId": "row-id-gS5DfJWK",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-ZL0NMgro": {
+          "column-id-ktuaRPeP": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-3zNV5goE": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": true,
             "tags": []
           }
         },
         "rows": {
-          "row-id-z1ORNfLj": {
-            "creationDate": 1667938135795
+          "row-id-lroHD99Q": {
+            "creationDate": 1668015366080
           },
-          "row-id-QLbq3GPm": {
-            "creationDate": 1667938135796
-          },
-          "row-id-M2jCxcSe": {
-            "creationDate": 1667938167512
-          },
-          "row-id-lAnGuSY4": {
-            "creationDate": 1667938169648
-          },
-          "row-id-p7RCBiFK": {
-            "creationDate": 1667938170711
-          },
-          "row-id-gob0kmJF": {
-            "creationDate": 1667938171566
+          "row-id-gS5DfJWK": {
+            "creationDate": 1668015366081
           }
         }
       },
@@ -608,153 +153,48 @@
     "table-id-c4Lgmh": {
       "model": {
         "columnIds": [
-          "column-id-ossHqjWB",
-          "column-id-YhOeFlyg"
+          "column-id-VNPjX9jg"
         ],
         "rowIds": [
-          "row-id-0VK9HxT2",
-          "row-id-7PneFVQx",
-          "row-id-5V5yWKbR",
-          "row-id-PUh29XD1",
-          "row-id-gHI73jJ5",
-          "row-id-2GzdbUXy"
+          "row-id-luN94IRe",
+          "row-id-Cfgpewe1"
         ],
         "cells": [
           {
-            "id": "cell-id-gRBjzyPe",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-0VK9HxT2",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-uden0Hrl",
+            "columnId": "column-id-VNPjX9jg",
+            "rowId": "row-id-luN94IRe",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-Z2m0oW4c",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-0VK9HxT2",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-0I3v3Hav",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-7PneFVQx",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-LKlZijaj",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-7PneFVQx",
-            "markdown": "You can run, but balance and dodging are a challenge",
-            "html": "You can run, but balance and dodging are a challenge",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-K6CNLcU6",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-5V5yWKbR",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-5nlfTb3z",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-5V5yWKbR",
-            "markdown": "Your sprint is solid, and sometimes you appear graceful",
-            "html": "Your sprint is solid, and sometimes you appear graceful",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-U49d6yc7",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-PUh29XD1",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-cJzQv5nt",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-PUh29XD1",
-            "markdown": "Your agility is impressive, and your coordination is as good as any trained amateur",
-            "html": "Your agility is impressive, and your coordination is as good as any trained amateur",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-nuVgAsr5",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-gHI73jJ5",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-hbJcnq1S",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-gHI73jJ5",
-            "markdown": "You could excel at acrobatics and move in a way few humans can",
-            "html": "You could excel at acrobatics and move in a way few humans can",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-3cA5bB04",
-            "columnId": "column-id-ossHqjWB",
-            "rowId": "row-id-2GzdbUXy",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-K9nl5CK1",
-            "columnId": "column-id-YhOeFlyg",
-            "rowId": "row-id-2GzdbUXy",
-            "markdown": "Your movements are liquid and hypnotic - almost superhuman",
-            "html": "Your movements are liquid and hypnotic - almost superhuman",
+            "id": "cell-id-LLX3XHFK",
+            "columnId": "column-id-VNPjX9jg",
+            "rowId": "row-id-Cfgpewe1",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-ossHqjWB": {
+          "column-id-VNPjX9jg": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-YhOeFlyg": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-0VK9HxT2": {
-            "creationDate": 1667938482402
+          "row-id-luN94IRe": {
+            "creationDate": 1668015366082
           },
-          "row-id-7PneFVQx": {
-            "creationDate": 1667938482403
-          },
-          "row-id-5V5yWKbR": {
-            "creationDate": 1667938505559
-          },
-          "row-id-PUh29XD1": {
-            "creationDate": 1667938506132
-          },
-          "row-id-gHI73jJ5": {
-            "creationDate": 1667938506646
-          },
-          "row-id-2GzdbUXy": {
-            "creationDate": 1667938507252
+          "row-id-Cfgpewe1": {
+            "creationDate": 1668015366083
           }
         }
       },
@@ -763,153 +203,48 @@
     "table-id-g462oQ": {
       "model": {
         "columnIds": [
-          "column-id-FciBD4uE",
-          "column-id-fekh3EPa"
+          "column-id-w321DIgx"
         ],
         "rowIds": [
-          "row-id-mMVQ0H4K",
-          "row-id-3xtuJFYZ",
-          "row-id-51LfZfWT",
-          "row-id-qmZntHQa",
-          "row-id-UlgCCtxq",
-          "row-id-j0Ydq04I"
+          "row-id-mdr6jxcS",
+          "row-id-MdocQTAb"
         ],
         "cells": [
           {
-            "id": "cell-id-ZazFeXK5",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-mMVQ0H4K",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-0zSJQuWa",
+            "columnId": "column-id-w321DIgx",
+            "rowId": "row-id-mdr6jxcS",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-eXtulbVE",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-mMVQ0H4K",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-CeS2hHBe",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-3xtuJFYZ",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-73NFAHOo",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-3xtuJFYZ",
-            "markdown": "Even lesser exertions make you winded",
-            "html": "Even lesser exertions make you winded",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-N1tqDY6c",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-51LfZfWT",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-iuGi6YKO",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-51LfZfWT",
-            "markdown": "You can take a beating, but consider suing for peace",
-            "html": "You can take a beating, but consider suing for peace",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-mNFcnDW6",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-qmZntHQa",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-XU9Xefsq",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-qmZntHQa",
-            "markdown": "Several days of hard hiking with a backpack is no problem",
-            "html": "Several days of hard hiking with a backpack is no problem",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-dQUzNEEe",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-UlgCCtxq",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ZT2EBnEJ",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-UlgCCtxq",
-            "markdown": "You could win a marathon or take copious amounts of pain, at least physically",
-            "html": "You could win a marathon or take copious amounts of pain, at least physically",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-6cO7Q06y",
-            "columnId": "column-id-FciBD4uE",
-            "rowId": "row-id-j0Ydq04I",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-mtGawENw",
-            "columnId": "column-id-fekh3EPa",
-            "rowId": "row-id-j0Ydq04I",
-            "markdown": "Even if you were a mortal, you'd never break a sweat",
-            "html": "Even if you were a mortal, you'd never break a sweat",
+            "id": "cell-id-vFvi9dtj",
+            "columnId": "column-id-w321DIgx",
+            "rowId": "row-id-MdocQTAb",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-FciBD4uE": {
+          "column-id-w321DIgx": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-fekh3EPa": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-mMVQ0H4K": {
-            "creationDate": 1667938725949
+          "row-id-mdr6jxcS": {
+            "creationDate": 1668015366094
           },
-          "row-id-3xtuJFYZ": {
-            "creationDate": 1667938725950
-          },
-          "row-id-51LfZfWT": {
-            "creationDate": 1667938750039
-          },
-          "row-id-qmZntHQa": {
-            "creationDate": 1667938750742
-          },
-          "row-id-UlgCCtxq": {
-            "creationDate": 1667938751257
-          },
-          "row-id-j0Ydq04I": {
-            "creationDate": 1667938751857
+          "row-id-MdocQTAb": {
+            "creationDate": 1668015366095
           }
         }
       },
@@ -918,153 +253,48 @@
     "table-id-DxCmbc": {
       "model": {
         "columnIds": [
-          "column-id-6qfDS0TG",
-          "column-id-YdIvXnhY"
+          "column-id-yYRApGF0"
         ],
         "rowIds": [
-          "row-id-BQxcMwKn",
-          "row-id-Kz3K5Nyn",
-          "row-id-jLgJlrhf",
-          "row-id-iNC6bBJq",
-          "row-id-e5dvTsUd",
-          "row-id-UwqvrHDr"
+          "row-id-BRmZ1nq6",
+          "row-id-LAoaKXlj"
         ],
         "cells": [
           {
-            "id": "cell-id-4SzkAC0G",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-BQxcMwKn",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-1XW672uc",
+            "columnId": "column-id-yYRApGF0",
+            "rowId": "row-id-BRmZ1nq6",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-5s0YjMev",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-BQxcMwKn",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-5Fi1AUrU",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-Kz3K5Nyn",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-02KHFf3R",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-Kz3K5Nyn",
-            "markdown": "You can speak clearly, though few people tend to listen",
-            "html": "You can speak clearly, though few people tend to listen",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-tDSlFeS7",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-jLgJlrhf",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-m2aT0hfu",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-jLgJlrhf",
-            "markdown": "Generally likeable despite your undead nature, you may even have friends",
-            "html": "Generally likeable despite your undead nature, you may even have friends",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-yX3RNT5c",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-iNC6bBJq",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-0oX71OOE",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-iNC6bBJq",
-            "markdown": "People trust you implicitly, and you easily make friends",
-            "html": "People trust you implicitly, and you easily make friends",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-NPsBigwK",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-e5dvTsUd",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-t3BLcdRk",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-e5dvTsUd",
-            "markdown": "You possess significant personal magnetism and draw",
-            "html": "You possess significant personal magnetism and draw",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-5JiTf5xK",
-            "columnId": "column-id-6qfDS0TG",
-            "rowId": "row-id-UwqvrHDr",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-ULDOTGow",
-            "columnId": "column-id-YdIvXnhY",
-            "rowId": "row-id-UwqvrHDr",
-            "markdown": "You could lead a city in rebellion, if you so choose",
-            "html": "You could lead a city in rebellion, if you so choose",
+            "id": "cell-id-ITLti9Hv",
+            "columnId": "column-id-yYRApGF0",
+            "rowId": "row-id-LAoaKXlj",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-6qfDS0TG": {
+          "column-id-yYRApGF0": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-YdIvXnhY": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-BQxcMwKn": {
-            "creationDate": 1667938970274
+          "row-id-BRmZ1nq6": {
+            "creationDate": 1668015366096
           },
-          "row-id-Kz3K5Nyn": {
-            "creationDate": 1667938970275
-          },
-          "row-id-jLgJlrhf": {
-            "creationDate": 1667939000767
-          },
-          "row-id-iNC6bBJq": {
-            "creationDate": 1667939001324
-          },
-          "row-id-e5dvTsUd": {
-            "creationDate": 1667939002840
-          },
-          "row-id-UwqvrHDr": {
-            "creationDate": 1667939003391
+          "row-id-LAoaKXlj": {
+            "creationDate": 1668015366097
           }
         }
       },
@@ -1073,153 +303,48 @@
     "table-id-KkKzk0": {
       "model": {
         "columnIds": [
-          "column-id-MsiXhBib",
-          "column-id-jJviSWzl"
+          "column-id-IGZP3Vk7"
         ],
         "rowIds": [
-          "row-id-z9OUGtNM",
-          "row-id-UZIVbslr",
-          "row-id-di2J4Exy",
-          "row-id-ZS7HMbRS",
-          "row-id-fXVaDqs9",
-          "row-id-mA0Jy1vR"
+          "row-id-KiOqwdeQ",
+          "row-id-aQK6pg1K"
         ],
         "cells": [
           {
-            "id": "cell-id-psnOvSbz",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-z9OUGtNM",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-SCvkE0OT",
+            "columnId": "column-id-IGZP3Vk7",
+            "rowId": "row-id-KiOqwdeQ",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-MyCXnzzU",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-z9OUGtNM",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-Xcibd3aq",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-UZIVbslr",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-jgMuGOBA",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-UZIVbslr",
-            "markdown": "As long as you stay honest, you can convince people to do what you want",
-            "html": "As long as you stay honest, you can convince people to do what you want",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-XS73BGzi",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-di2J4Exy",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-It70GYRG",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-di2J4Exy",
-            "markdown": "Your ability to deceive surpasses the will of the weak-willed and simple-minded",
-            "html": "Your ability to deceive surpasses the will of the weak-willed and simple-minded",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-3Cl1koEi",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-ZS7HMbRS",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-JOelQP91",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-ZS7HMbRS",
-            "markdown": "You never have to pay full price for anything",
-            "html": "You never have to pay full price for anything",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-HRp3Sgjk",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-fXVaDqs9",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-xTiSpAEf",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-fXVaDqs9",
-            "markdown": "You could be a cult leader - or a politician",
-            "html": "You could be a cult leader - or a politician",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-h26BSM3Q",
-            "columnId": "column-id-MsiXhBib",
-            "rowId": "row-id-mA0Jy1vR",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-oMxOVIuN",
-            "columnId": "column-id-jJviSWzl",
-            "rowId": "row-id-mA0Jy1vR",
-            "markdown": "You could convince the Prince to invest in desert property, or maybe even to call off the Blood Hunt on your head",
-            "html": "You could convince the Prince to invest in desert property, or maybe even to call off the Blood Hunt on your head",
+            "id": "cell-id-NhPdjdaM",
+            "columnId": "column-id-IGZP3Vk7",
+            "rowId": "row-id-aQK6pg1K",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-MsiXhBib": {
+          "column-id-IGZP3Vk7": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-jJviSWzl": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-z9OUGtNM": {
-            "creationDate": 1667939105620
+          "row-id-KiOqwdeQ": {
+            "creationDate": 1668015366097
           },
-          "row-id-UZIVbslr": {
-            "creationDate": 1667939105621
-          },
-          "row-id-di2J4Exy": {
-            "creationDate": 1667939149887
-          },
-          "row-id-ZS7HMbRS": {
-            "creationDate": 1667939150428
-          },
-          "row-id-fXVaDqs9": {
-            "creationDate": 1667939150953
-          },
-          "row-id-mA0Jy1vR": {
-            "creationDate": 1667939151477
+          "row-id-aQK6pg1K": {
+            "creationDate": 1668015366098
           }
         }
       },
