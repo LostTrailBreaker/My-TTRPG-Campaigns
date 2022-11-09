@@ -403,27 +403,112 @@
     "table-id-6Az0Ub": {
       "model": {
         "columnIds": [
-          "column-id-zJIp1mVt"
+          "column-id-zJIp1mVt",
+          "column-id-a39Ghtoi"
         ],
         "rowIds": [
           "row-id-xLGPi2TV",
-          "row-id-Ic96V46C"
+          "row-id-Ic96V46C",
+          "row-id-QOGEZtBN",
+          "row-id-0QIeUCcS",
+          "row-id-pTErsRvL",
+          "row-id-XJMlLjvx"
         ],
         "cells": [
           {
             "id": "cell-id-xkI1YASj",
             "columnId": "column-id-zJIp1mVt",
             "rowId": "row-id-xLGPi2TV",
-            "markdown": "New Column",
-            "html": "New Column",
+            "markdown": "Number of dots",
+            "html": "Number of dots",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-SrG72pDP",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-xLGPi2TV",
+            "markdown": "Description",
+            "html": "Description",
             "isHeader": true
           },
           {
             "id": "cell-id-ZQCdEqtr",
             "columnId": "column-id-zJIp1mVt",
             "rowId": "row-id-Ic96V46C",
-            "markdown": "",
-            "html": "",
+            "markdown": "1",
+            "html": "1",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-q3s0Zcni",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-Ic96V46C",
+            "markdown": "You can read and write competently, though some terms confound you",
+            "html": "You can read and write competently, though some terms confound you",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-Tl5wJxgK",
+            "columnId": "column-id-zJIp1mVt",
+            "rowId": "row-id-QOGEZtBN",
+            "markdown": "2",
+            "html": "2",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-KWDSLEj7",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-QOGEZtBN",
+            "markdown": "You are smart enough to realize your limitations",
+            "html": "You are smart enough to realize your limitations",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-FtqVa4gG",
+            "columnId": "column-id-zJIp1mVt",
+            "rowId": "row-id-0QIeUCcS",
+            "markdown": "3",
+            "html": "3",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-NhQ5eBKl",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-0QIeUCcS",
+            "markdown": "You are enlightened, able to piece together clues without difficulty",
+            "html": "You are enlightened, able to piece together clues without difficulty",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-GXhC5OSg",
+            "columnId": "column-id-zJIp1mVt",
+            "rowId": "row-id-pTErsRvL",
+            "markdown": "4",
+            "html": "4",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-fl7diULv",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-pTErsRvL",
+            "markdown": "You're likely consulted by members of Clan Tremere for your wisdom",
+            "html": "You're likely consulted by members of Clan Tremere for your wisdom",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-7Why7FoM",
+            "columnId": "column-id-zJIp1mVt",
+            "rowId": "row-id-XJMlLjvx",
+            "markdown": "5",
+            "html": "5",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-CXGNwXhs",
+            "columnId": "column-id-a39Ghtoi",
+            "rowId": "row-id-XJMlLjvx",
+            "markdown": "Genius does not cover the depths and range of your intellect",
+            "html": "Genius does not cover the depths and range of your intellect",
             "isHeader": false
           }
         ]
@@ -434,7 +519,15 @@
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": false,
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-a39Ghtoi": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
             "shouldWrapOverflow": false,
             "tags": []
           }
@@ -445,6 +538,18 @@
           },
           "row-id-Ic96V46C": {
             "creationDate": 1668016083593
+          },
+          "row-id-QOGEZtBN": {
+            "creationDate": 1668016106074
+          },
+          "row-id-0QIeUCcS": {
+            "creationDate": 1668016106831
+          },
+          "row-id-pTErsRvL": {
+            "creationDate": 1668016107365
+          },
+          "row-id-XJMlLjvx": {
+            "creationDate": 1668016107941
           }
         }
       },
@@ -453,7 +558,7 @@
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-WNKftA",
+    "tableId": "table-id-6Az0Ub",
     "viewModes": [],
     "eventType": "update-state"
   },
