@@ -221,7 +221,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- [[Manipulation]]
 	- [[Composure]]
 - **Mental Attributes**:
-	- Intelligence
+	- [[Intelligence]]
 	- Wits
 	- Resolve
 
