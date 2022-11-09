@@ -122,7 +122,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 - superficial damage is marked as an '/', while aggravated damage is marked as an 'X'
 - once a character's tracker is filled, they are **Impaired**. They lose 2 dice from all relevant pools. Mortal players may be incapacitated at this stage. While impaired, all damage sustained becomes aggravated damage
 - If a tracker is filled with aggravated damage, they become either comatose or dead (if mortal), or go into torpor.
--  If a tracker is filled with aggravated willpower damage while in a social conflict, they lose face and may have dire consequences invoked upon them, such as being exiled, losing status or merits, etc.
+-  If a tracker is filled with aggravated willpower damage while in a social conflict, they lose face and may have dire consequences invoked upon them, such as being exiled, losing status or merits, etc. A -2 dice penalty to social and mental tests is used
 
 ### Mending Damage
 
