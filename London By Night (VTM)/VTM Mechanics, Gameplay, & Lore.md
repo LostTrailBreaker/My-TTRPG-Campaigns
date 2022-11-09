@@ -217,7 +217,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- [[Dexterity]]: agility and grace, dodging capability, fine motor control
 	- [[Stamina]]: physical resistance; resisting physical harm, persevering through hazardous and difficult effort
 - **Social Attributes**:
-	- [[Charisma]]
+	- [[Charisma]]: natural charm, grace, and sex appeal
 	- [[Manipulation]]
 	- [[Composure]]
 - **Mental Attributes**:
