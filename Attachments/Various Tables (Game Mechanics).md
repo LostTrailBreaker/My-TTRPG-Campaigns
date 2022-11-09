@@ -10,5 +10,5 @@ table-id-RC9DQO
 ```
 
 ```notion-like-tables
-table-id-4juAtr
+table-id-Resolve
 ```
