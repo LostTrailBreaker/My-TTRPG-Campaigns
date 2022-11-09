@@ -3,25 +3,25 @@
     "table-id-BQx3Hx": {
       "model": {
         "columnIds": [
-          "column-id-WsrfbXFc"
+          "column-id-x30ujsmO"
         ],
         "rowIds": [
-          "row-id-dNli0Ztd",
-          "row-id-rPH2gR3I"
+          "row-id-weHxCEUJ",
+          "row-id-6XKgfvGc"
         ],
         "cells": [
           {
-            "id": "cell-id-APU5RPXQ",
-            "columnId": "column-id-WsrfbXFc",
-            "rowId": "row-id-dNli0Ztd",
+            "id": "cell-id-wZHZvQks",
+            "columnId": "column-id-x30ujsmO",
+            "rowId": "row-id-weHxCEUJ",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-yK02JWbm",
-            "columnId": "column-id-WsrfbXFc",
-            "rowId": "row-id-rPH2gR3I",
+            "id": "cell-id-Y03WfVxp",
+            "columnId": "column-id-x30ujsmO",
+            "rowId": "row-id-6XKgfvGc",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -30,7 +30,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-WsrfbXFc": {
+          "column-id-x30ujsmO": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -40,11 +40,11 @@
           }
         },
         "rows": {
-          "row-id-dNli0Ztd": {
-            "creationDate": 1668015366057
+          "row-id-weHxCEUJ": {
+            "creationDate": 1668015897980
           },
-          "row-id-rPH2gR3I": {
-            "creationDate": 1668015366058
+          "row-id-6XKgfvGc": {
+            "creationDate": 1668015897981
           }
         }
       },
@@ -53,25 +53,25 @@
     "table-id-Qmxahy": {
       "model": {
         "columnIds": [
-          "column-id-em3G7Y1t"
+          "column-id-dXAWowpp"
         ],
         "rowIds": [
-          "row-id-fqKxvQob",
-          "row-id-VJkV5e7m"
+          "row-id-mQZ5jkOP",
+          "row-id-7nGoOzgF"
         ],
         "cells": [
           {
-            "id": "cell-id-FqDpPdTY",
-            "columnId": "column-id-em3G7Y1t",
-            "rowId": "row-id-fqKxvQob",
+            "id": "cell-id-MffxNkVD",
+            "columnId": "column-id-dXAWowpp",
+            "rowId": "row-id-mQZ5jkOP",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-XCz1pyv2",
-            "columnId": "column-id-em3G7Y1t",
-            "rowId": "row-id-VJkV5e7m",
+            "id": "cell-id-D1pWMCJQ",
+            "columnId": "column-id-dXAWowpp",
+            "rowId": "row-id-7nGoOzgF",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -80,7 +80,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-em3G7Y1t": {
+          "column-id-dXAWowpp": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -90,11 +90,11 @@
           }
         },
         "rows": {
-          "row-id-fqKxvQob": {
-            "creationDate": 1668015366070
+          "row-id-mQZ5jkOP": {
+            "creationDate": 1668015897983
           },
-          "row-id-VJkV5e7m": {
-            "creationDate": 1668015366071
+          "row-id-7nGoOzgF": {
+            "creationDate": 1668015897984
           }
         }
       },
@@ -103,25 +103,25 @@
     "table-id-MHJdaa": {
       "model": {
         "columnIds": [
-          "column-id-ktuaRPeP"
+          "column-id-RZCONArc"
         ],
         "rowIds": [
-          "row-id-lroHD99Q",
-          "row-id-gS5DfJWK"
+          "row-id-kl2ktytH",
+          "row-id-kdwNka09"
         ],
         "cells": [
           {
-            "id": "cell-id-LAeX1bGS",
-            "columnId": "column-id-ktuaRPeP",
-            "rowId": "row-id-lroHD99Q",
+            "id": "cell-id-MRVBkGhw",
+            "columnId": "column-id-RZCONArc",
+            "rowId": "row-id-kl2ktytH",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-KinmRYG0",
-            "columnId": "column-id-ktuaRPeP",
-            "rowId": "row-id-gS5DfJWK",
+            "id": "cell-id-NNjyfQKL",
+            "columnId": "column-id-RZCONArc",
+            "rowId": "row-id-kdwNka09",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -130,7 +130,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-ktuaRPeP": {
+          "column-id-RZCONArc": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -140,11 +140,11 @@
           }
         },
         "rows": {
-          "row-id-lroHD99Q": {
-            "creationDate": 1668015366080
+          "row-id-kl2ktytH": {
+            "creationDate": 1668015897984
           },
-          "row-id-gS5DfJWK": {
-            "creationDate": 1668015366081
+          "row-id-kdwNka09": {
+            "creationDate": 1668015897985
           }
         }
       },
@@ -153,25 +153,25 @@
     "table-id-c4Lgmh": {
       "model": {
         "columnIds": [
-          "column-id-VNPjX9jg"
+          "column-id-9Ux4cpxJ"
         ],
         "rowIds": [
-          "row-id-luN94IRe",
-          "row-id-Cfgpewe1"
+          "row-id-IpaLSwq0",
+          "row-id-vrrSywud"
         ],
         "cells": [
           {
-            "id": "cell-id-uden0Hrl",
-            "columnId": "column-id-VNPjX9jg",
-            "rowId": "row-id-luN94IRe",
+            "id": "cell-id-5hUEtY31",
+            "columnId": "column-id-9Ux4cpxJ",
+            "rowId": "row-id-IpaLSwq0",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-LLX3XHFK",
-            "columnId": "column-id-VNPjX9jg",
-            "rowId": "row-id-Cfgpewe1",
+            "id": "cell-id-3jR2VeAA",
+            "columnId": "column-id-9Ux4cpxJ",
+            "rowId": "row-id-vrrSywud",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -180,7 +180,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-VNPjX9jg": {
+          "column-id-9Ux4cpxJ": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -190,11 +190,11 @@
           }
         },
         "rows": {
-          "row-id-luN94IRe": {
-            "creationDate": 1668015366082
+          "row-id-IpaLSwq0": {
+            "creationDate": 1668015897987
           },
-          "row-id-Cfgpewe1": {
-            "creationDate": 1668015366083
+          "row-id-vrrSywud": {
+            "creationDate": 1668015897988
           }
         }
       },
@@ -203,25 +203,25 @@
     "table-id-g462oQ": {
       "model": {
         "columnIds": [
-          "column-id-w321DIgx"
+          "column-id-bUJGsbFk"
         ],
         "rowIds": [
-          "row-id-mdr6jxcS",
-          "row-id-MdocQTAb"
+          "row-id-wXukFXDk",
+          "row-id-piODyl09"
         ],
         "cells": [
           {
-            "id": "cell-id-0zSJQuWa",
-            "columnId": "column-id-w321DIgx",
-            "rowId": "row-id-mdr6jxcS",
+            "id": "cell-id-NaBm2VNm",
+            "columnId": "column-id-bUJGsbFk",
+            "rowId": "row-id-wXukFXDk",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-vFvi9dtj",
-            "columnId": "column-id-w321DIgx",
-            "rowId": "row-id-MdocQTAb",
+            "id": "cell-id-EkI25Y91",
+            "columnId": "column-id-bUJGsbFk",
+            "rowId": "row-id-piODyl09",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -230,7 +230,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-w321DIgx": {
+          "column-id-bUJGsbFk": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -240,11 +240,11 @@
           }
         },
         "rows": {
-          "row-id-mdr6jxcS": {
-            "creationDate": 1668015366094
+          "row-id-wXukFXDk": {
+            "creationDate": 1668015897990
           },
-          "row-id-MdocQTAb": {
-            "creationDate": 1668015366095
+          "row-id-piODyl09": {
+            "creationDate": 1668015897991
           }
         }
       },
@@ -253,25 +253,25 @@
     "table-id-DxCmbc": {
       "model": {
         "columnIds": [
-          "column-id-yYRApGF0"
+          "column-id-mXiNNsAM"
         ],
         "rowIds": [
-          "row-id-BRmZ1nq6",
-          "row-id-LAoaKXlj"
+          "row-id-zeZXeBZP",
+          "row-id-t9R2Uz1u"
         ],
         "cells": [
           {
-            "id": "cell-id-1XW672uc",
-            "columnId": "column-id-yYRApGF0",
-            "rowId": "row-id-BRmZ1nq6",
+            "id": "cell-id-1pNLVAqq",
+            "columnId": "column-id-mXiNNsAM",
+            "rowId": "row-id-zeZXeBZP",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-ITLti9Hv",
-            "columnId": "column-id-yYRApGF0",
-            "rowId": "row-id-LAoaKXlj",
+            "id": "cell-id-3G4AqBm1",
+            "columnId": "column-id-mXiNNsAM",
+            "rowId": "row-id-t9R2Uz1u",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -280,7 +280,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-yYRApGF0": {
+          "column-id-mXiNNsAM": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -290,11 +290,11 @@
           }
         },
         "rows": {
-          "row-id-BRmZ1nq6": {
-            "creationDate": 1668015366096
+          "row-id-zeZXeBZP": {
+            "creationDate": 1668015897992
           },
-          "row-id-LAoaKXlj": {
-            "creationDate": 1668015366097
+          "row-id-t9R2Uz1u": {
+            "creationDate": 1668015897993
           }
         }
       },
@@ -303,25 +303,25 @@
     "table-id-KkKzk0": {
       "model": {
         "columnIds": [
-          "column-id-IGZP3Vk7"
+          "column-id-0nIYj4PP"
         ],
         "rowIds": [
-          "row-id-KiOqwdeQ",
-          "row-id-aQK6pg1K"
+          "row-id-MG343wRJ",
+          "row-id-SDtMf2PU"
         ],
         "cells": [
           {
-            "id": "cell-id-XsugSVmk",
-            "columnId": "column-id-IGZP3Vk7",
-            "rowId": "row-id-KiOqwdeQ",
+            "id": "cell-id-Yy3FE2g1",
+            "columnId": "column-id-0nIYj4PP",
+            "rowId": "row-id-MG343wRJ",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-emlRHJ9j",
-            "columnId": "column-id-IGZP3Vk7",
-            "rowId": "row-id-aQK6pg1K",
+            "id": "cell-id-uAqA0Y9N",
+            "columnId": "column-id-0nIYj4PP",
+            "rowId": "row-id-SDtMf2PU",
             "markdown": "",
             "html": "",
             "isHeader": false
@@ -330,7 +330,7 @@
       },
       "settings": {
         "columns": {
-          "column-id-IGZP3Vk7": {
+          "column-id-0nIYj4PP": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
@@ -340,11 +340,11 @@
           }
         },
         "rows": {
-          "row-id-KiOqwdeQ": {
-            "creationDate": 1668015366097
+          "row-id-MG343wRJ": {
+            "creationDate": 1668015897993
           },
-          "row-id-aQK6pg1K": {
-            "creationDate": 1668015366098
+          "row-id-SDtMf2PU": {
+            "creationDate": 1668015897994
           }
         }
       },
@@ -353,153 +353,48 @@
     "table-id-WNKftA": {
       "model": {
         "columnIds": [
-          "column-id-mRsWEqRI",
-          "column-id-dTCZI6Bd"
+          "column-id-hoFdaMcq"
         ],
         "rowIds": [
-          "row-id-hVZP5X7x",
-          "row-id-JdOrqKJD",
-          "row-id-tCAftCC6",
-          "row-id-NQG1snol",
-          "row-id-JYlqf40T",
-          "row-id-aIdEnRkp"
+          "row-id-G4V1bNVI",
+          "row-id-S5vI3ZJX"
         ],
         "cells": [
           {
-            "id": "cell-id-FWyhCVHw",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-hVZP5X7x",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-RI2a07TF",
+            "columnId": "column-id-hoFdaMcq",
+            "rowId": "row-id-G4V1bNVI",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-vqsJD4mL",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-hVZP5X7x",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-egl6E7TK",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-JdOrqKJD",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-SZ5Daf7w",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-JdOrqKJD",
-            "markdown": "The slightest insult or confrontation could drive you to frenzy",
-            "html": "The slightest insult or confrontation could drive you to frenzy",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-3NFbV6Bm",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-tCAftCC6",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-lQBykFXA",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-tCAftCC6",
-            "markdown": "You can subdue your predatory instincts in most non-hostile situations",
-            "html": "You can subdue your predatory instincts in most non-hostile situations",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-K09ZxujS",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-NQG1snol",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-obPlSn7J",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-NQG1snol",
-            "markdown": "Others look to you for guidance when the blood spatter hits the fan",
-            "html": "Others look to you for guidance when the blood spatter hits the fan",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-bb3cz2F5",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-JYlqf40T",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-GpZI3cSn",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-JYlqf40T",
-            "markdown": "You can effortlessly bluff at cards and can manage your Beast to some extent",
-            "html": "You can effortlessly bluff at cards and can manage your Beast to some extent",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-IC9RwzEY",
-            "columnId": "column-id-mRsWEqRI",
-            "rowId": "row-id-aIdEnRkp",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-U1PsTjeX",
-            "columnId": "column-id-dTCZI6Bd",
-            "rowId": "row-id-aIdEnRkp",
-            "markdown": "The Beast is your pet",
-            "html": "The Beast is your pet",
+            "id": "cell-id-tPfwdtAT",
+            "columnId": "column-id-hoFdaMcq",
+            "rowId": "row-id-S5vI3ZJX",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-mRsWEqRI": {
+          "column-id-hoFdaMcq": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-dTCZI6Bd": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-hVZP5X7x": {
-            "creationDate": 1668015398908
+          "row-id-G4V1bNVI": {
+            "creationDate": 1668015897996
           },
-          "row-id-JdOrqKJD": {
-            "creationDate": 1668015398909
-          },
-          "row-id-tCAftCC6": {
-            "creationDate": 1668015510075
-          },
-          "row-id-NQG1snol": {
-            "creationDate": 1668015510743
-          },
-          "row-id-JYlqf40T": {
-            "creationDate": 1668015511362
-          },
-          "row-id-aIdEnRkp": {
-            "creationDate": 1668015512005
+          "row-id-S5vI3ZJX": {
+            "creationDate": 1668015897997
           }
         }
       },
