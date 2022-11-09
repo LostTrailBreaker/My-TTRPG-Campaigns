@@ -230,6 +230,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- to take control of a character in frenzy for 1 turn or when under the influence of supernatural coercion (Dominate, Presence, etc.)
 	- to perform minute movements while impaled through the heart with a wooden stake
 	- to ignore health damage penalties, including impairment, for 1 turn
+- 
 
 ### Skills
 - 
