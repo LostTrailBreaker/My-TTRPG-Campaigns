@@ -222,7 +222,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- [[Composure]]: allows you to remain calm, control your emotions, and put others at ease
 - **Mental Attributes**:
 	- [[Intelligence]]: your ability to reason, research, and apply logic
-	- [[Wits]]
+	- [[Wits]]: thinking quickly and reacting correctly on little information
 	- [[Resolve]]
 
 ### Skills
