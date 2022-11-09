@@ -225,7 +225,8 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 	- [[Wits]]: thinking quickly and reacting correctly on little information
 	- [[Resolve]]: provides focus and determination, measures concentration and mental fortitude
 ## Willpower
-- willpower can be spent 
+- willpower can be spent for several different reasons:
+	- to reroll up to 3 regular dice
 
 ### Skills
 - 
