@@ -227,6 +227,7 @@ Often considered members of the anarch movement nowadays, the Autarkis are unali
 ## Willpower
 - willpower can be spent for several different reasons:
 	- to reroll up to 3 regular dice
+	- to take control of a character in frenzy for 1 turn
 
 ### Skills
 - 
