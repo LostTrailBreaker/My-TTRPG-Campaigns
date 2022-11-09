@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "580952879de7d5e4",
@@ -172,15 +173,15 @@
   },
   "active": "9d1b9cbb4eaa41da",
   "lastOpenFiles": [
-    "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
+    "_notion-like-tables/table-id-Resolve.md",
+    "_notion-like-tables/table-id-4juAtr.md",
     "Attachments/Various Tables (Game Mechanics).md",
+    "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "London By Night (VTM)/Key Terms.md",
     "_notion-like-tables/Action Difficulty.md",
     "_notion-like-tables/Charisma.md",
     "_notion-like-tables/Composure.md",
     "_notion-like-tables/Dexterity.md",
-    "_notion-like-tables/Leveling up.md",
-    "_notion-like-tables/Manipulation.md",
-    "_notion-like-tables/Strength.md"
+    "_notion-like-tables/Leveling up.md"
   ]
 }

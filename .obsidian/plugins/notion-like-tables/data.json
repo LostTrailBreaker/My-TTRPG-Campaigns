@@ -403,153 +403,48 @@
     "table-id-6Az0Ub": {
       "model": {
         "columnIds": [
-          "column-id-zJIp1mVt",
-          "column-id-a39Ghtoi"
+          "column-id-ndtF36DN"
         ],
         "rowIds": [
-          "row-id-xLGPi2TV",
-          "row-id-Ic96V46C",
-          "row-id-QOGEZtBN",
-          "row-id-0QIeUCcS",
-          "row-id-pTErsRvL",
-          "row-id-XJMlLjvx"
+          "row-id-Fjd9DGt3",
+          "row-id-FuuOr1uq"
         ],
         "cells": [
           {
-            "id": "cell-id-xkI1YASj",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-xLGPi2TV",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-aR4n70Y6",
+            "columnId": "column-id-ndtF36DN",
+            "rowId": "row-id-Fjd9DGt3",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-SrG72pDP",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-xLGPi2TV",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-ZQCdEqtr",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-Ic96V46C",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-q3s0Zcni",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-Ic96V46C",
-            "markdown": "You can read and write competently, though some terms confound you",
-            "html": "You can read and write competently, though some terms confound you",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-Tl5wJxgK",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-QOGEZtBN",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-KWDSLEj7",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-QOGEZtBN",
-            "markdown": "You are smart enough to realize your limitations",
-            "html": "You are smart enough to realize your limitations",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-FtqVa4gG",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-0QIeUCcS",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-NhQ5eBKl",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-0QIeUCcS",
-            "markdown": "You are enlightened, able to piece together clues without difficulty",
-            "html": "You are enlightened, able to piece together clues without difficulty",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-GXhC5OSg",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-pTErsRvL",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-fl7diULv",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-pTErsRvL",
-            "markdown": "You're likely consulted by members of Clan Tremere for your wisdom",
-            "html": "You're likely consulted by members of Clan Tremere for your wisdom",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-7Why7FoM",
-            "columnId": "column-id-zJIp1mVt",
-            "rowId": "row-id-XJMlLjvx",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-CXGNwXhs",
-            "columnId": "column-id-a39Ghtoi",
-            "rowId": "row-id-XJMlLjvx",
-            "markdown": "Genius does not cover the depths and range of your intellect",
-            "html": "Genius does not cover the depths and range of your intellect",
+            "id": "cell-id-FFFK4ixP",
+            "columnId": "column-id-ndtF36DN",
+            "rowId": "row-id-FuuOr1uq",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-zJIp1mVt": {
+          "column-id-ndtF36DN": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-a39Ghtoi": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-xLGPi2TV": {
-            "creationDate": 1668016083592
+          "row-id-Fjd9DGt3": {
+            "creationDate": 1668016506716
           },
-          "row-id-Ic96V46C": {
-            "creationDate": 1668016083593
-          },
-          "row-id-QOGEZtBN": {
-            "creationDate": 1668016106074
-          },
-          "row-id-0QIeUCcS": {
-            "creationDate": 1668016106831
-          },
-          "row-id-pTErsRvL": {
-            "creationDate": 1668016107365
-          },
-          "row-id-XJMlLjvx": {
-            "creationDate": 1668016107941
+          "row-id-FuuOr1uq": {
+            "creationDate": 1668016506717
           }
         }
       },
@@ -558,153 +453,48 @@
     "table-id-RC9DQO": {
       "model": {
         "columnIds": [
-          "column-id-o97viFZu",
-          "column-id-7hxj0Svj"
+          "column-id-HGAicE4i"
         ],
         "rowIds": [
-          "row-id-1dnW2dg5",
-          "row-id-4moxiptF",
-          "row-id-hUcGwaJU",
-          "row-id-7ZFgvOc5",
-          "row-id-ljAKVt5B",
-          "row-id-6DGaaqAm"
+          "row-id-5eHKmNV3",
+          "row-id-aBt5jRwO"
         ],
         "cells": [
           {
-            "id": "cell-id-asFXZehL",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-1dnW2dg5",
-            "markdown": "Number of dots",
-            "html": "Number of dots",
+            "id": "cell-id-FyencXSs",
+            "columnId": "column-id-HGAicE4i",
+            "rowId": "row-id-5eHKmNV3",
+            "markdown": "New Column",
+            "html": "New Column",
             "isHeader": true
           },
           {
-            "id": "cell-id-WT5cz9Nq",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-1dnW2dg5",
-            "markdown": "Description",
-            "html": "Description",
-            "isHeader": true
-          },
-          {
-            "id": "cell-id-HiiCebUO",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-4moxiptF",
-            "markdown": "1",
-            "html": "1",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-BYPNzX0U",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-4moxiptF",
-            "markdown": "You get to the point eventually, but it takes explaining",
-            "html": "You get to the point eventually, but it takes explaining",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-tgUzSnJk",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-hUcGwaJU",
-            "markdown": "2",
-            "html": "2",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-YkHdu4JH",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-hUcGwaJU",
-            "markdown": "You can bet the odds in poker or apply the emergency brakes in time. Usually",
-            "html": "You can bet the odds in poker or apply the emergency brakes in time. Usually",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-LLqM5IXa",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-7ZFgvOc5",
-            "markdown": "3",
-            "html": "3",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-2fPdzHJG",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-7ZFgvOc5",
-            "markdown": "You can analyze a situation and quickly work out the best escape route",
-            "html": "You can analyze a situation and quickly work out the best escape route",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-TduYzI79",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-ljAKVt5B",
-            "markdown": "4",
-            "html": "4",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-oxC04MEW",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-ljAKVt5B",
-            "markdown": "You are never caught on the back foot and always come up with a smart riposte",
-            "html": "You are never caught on the back foot and always come up with a smart riposte",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-IUVgs3S6",
-            "columnId": "column-id-o97viFZu",
-            "rowId": "row-id-6DGaaqAm",
-            "markdown": "5",
-            "html": "5",
-            "isHeader": false
-          },
-          {
-            "id": "cell-id-QOu5PdAW",
-            "columnId": "column-id-7hxj0Svj",
-            "rowId": "row-id-6DGaaqAm",
-            "markdown": "You think and respond more quickly than most people can comprehend",
-            "html": "You think and respond more quickly than most people can comprehend",
+            "id": "cell-id-whA3b9YS",
+            "columnId": "column-id-HGAicE4i",
+            "rowId": "row-id-aBt5jRwO",
+            "markdown": "",
+            "html": "",
             "isHeader": false
           }
         ]
       },
       "settings": {
         "columns": {
-          "column-id-o97viFZu": {
+          "column-id-HGAicE4i": {
             "sortDir": "default",
             "width": "120px",
             "type": "text",
-            "useAutoWidth": true,
-            "shouldWrapOverflow": false,
-            "tags": []
-          },
-          "column-id-7hxj0Svj": {
-            "sortDir": "default",
-            "width": "120px",
-            "type": "text",
-            "useAutoWidth": true,
+            "useAutoWidth": false,
             "shouldWrapOverflow": false,
             "tags": []
           }
         },
         "rows": {
-          "row-id-1dnW2dg5": {
-            "creationDate": 1668016277184
+          "row-id-5eHKmNV3": {
+            "creationDate": 1668016506718
           },
-          "row-id-4moxiptF": {
-            "creationDate": 1668016277185
-          },
-          "row-id-hUcGwaJU": {
-            "creationDate": 1668016299314
-          },
-          "row-id-7ZFgvOc5": {
-            "creationDate": 1668016299804
-          },
-          "row-id-ljAKVt5B": {
-            "creationDate": 1668016300356
-          },
-          "row-id-6DGaaqAm": {
-            "creationDate": 1668016300977
+          "row-id-aBt5jRwO": {
+            "creationDate": 1668016506719
           }
         }
       },
@@ -771,7 +561,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-7F4sf2Xt",
+            "id": "cell-id-yUnk0KOV",
             "columnId": "column-id-deRFmsGu",
             "rowId": "row-id-QAO6DfJs",
             "markdown": "New Column",
@@ -779,7 +569,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-hXbiAtfc",
+            "id": "cell-id-3BSmbprF",
             "columnId": "column-id-deRFmsGu",
             "rowId": "row-id-lSa0QJOl",
             "markdown": "",
