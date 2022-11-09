@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "580952879de7d5e4",
@@ -119,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attachments/Various Tables (Game Mechanics).md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +174,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1b9cbb4eaa41da",
+  "active": "2085fca779bee8b2",
   "lastOpenFiles": [
+    "Attachments/Various Tables (Game Mechanics).md",
     "London By Night (VTM)/VTM Mechanics, Gameplay, & Lore.md",
     "London By Night (VTM)/Key Terms.md",
-    "Attachments/Various Tables (Game Mechanics).md",
     "_notion-like-tables/Action Difficulty.md",
     "_notion-like-tables/Charisma.md",
     "_notion-like-tables/Composure.md",
